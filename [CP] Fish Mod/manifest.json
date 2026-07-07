@@ -1,0 +1,19 @@
+{
+  "Name": "Placeholder",
+  "Author": "LucyTheDove",
+  "Version": "1.0.0",
+  "Description": "Adds fish to the mountains, rivers, and caves of Stardew Valley.",
+  "UniqueID": "LucyAndCalart.ModName",
+  "UpdateKeys": [
+    "Nexus:0"
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      "IsRequired": true
+    }
+  ]
+}

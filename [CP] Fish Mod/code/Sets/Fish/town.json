@@ -1,0 +1,43 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "{{TargetName}}",
+                "Fish"
+            ],
+            "Entries": {
+                "{{ModId}}_Placeholder1": {
+                    "Id": "{{ModId}}_Placeholder1",
+                    "ItemId": "(O){{ModId}}_Placeholder1",
+                    "Condition": "LOCATION_Season Here Spring"
+                },
+                "{{ModId}}_Placeholder2": {
+                    "Id": "{{ModId}}_Placeholder2",
+                    "ItemId": "(O){{ModId}}_Placeholder2",
+                    "Condition": "LOCATION_Season Here Spring"
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "{{TargetName}}",
+                "Fish"
+            ],
+            "When": {
+                "AreaId |contains=<null>": "false"
+            },
+            "Fields": {
+                "{{ModId}}_Placeholder1": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_Placeholder2": {
+                    "FishAreaId": "{{AreaId}}"
+                }
+            }
+        }
+    ]
+}

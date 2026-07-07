@@ -1,0 +1,54 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                "{{ModId}}_Placeholder1": {
+                    "Name": "{{ModId}}_Placeholder1",
+                    "DisplayName": "{{i18n:{{ModId}}_Placeholder1.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_Placeholder1.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 100,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 0,
+                    "Edibility": 25,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_river",
+                        "color_green",
+                        "fish_placeholder1",
+                        "season_spring",
+                        "fish_talk_stiff"
+                    ]
+                },
+                "{{ModId}}_Placeholder2": {
+                    "Name": "{{ModId}}_Placeholder2",
+                    "DisplayName": "{{i18n:{{ModId}}_Placeholder2.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_Placeholder2.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 100,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 1,
+                    "Edibility": 25,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_river",
+                        "color_green",
+                        "fish_placeholder2",
+                        "season_spring",
+                        "fish_talk_stiff"
+                    ]
+                }
+            }
+        }
+    ]
+}
