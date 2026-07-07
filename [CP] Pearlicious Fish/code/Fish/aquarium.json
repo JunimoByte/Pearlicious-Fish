@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/AquariumFish",
+            "Entries": {
+                "{{ModId}}_CutthroatTrout": "0/fish/////Mods\\{{ModId}}\\AquariumSprite",
+                "{{ModId}}_KoiCarp": "1/fish/////Mods\\{{ModId}}\\AquariumSprite"
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "code/Sets/Fish/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Mountain",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Sets/Fish/pond.json",
+            "LocalTokens": {
+                "TargetName": "Forest",
+                "AreaId": "Lake"
+            }
+        }
+    ]
+}

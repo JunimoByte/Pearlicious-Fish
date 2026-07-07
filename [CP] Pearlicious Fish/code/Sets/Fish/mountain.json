@@ -8,15 +8,10 @@
                 "Fish"
             ],
             "Entries": {
-                "{{ModId}}_Placeholder1": {
-                    "Id": "{{ModId}}_Placeholder1",
-                    "ItemId": "(O){{ModId}}_Placeholder1",
-                    "Condition": "LOCATION_Season Here Spring"
-                },
-                "{{ModId}}_Placeholder2": {
-                    "Id": "{{ModId}}_Placeholder2",
-                    "ItemId": "(O){{ModId}}_Placeholder2",
-                    "Condition": "LOCATION_Season Here Spring"
+                "{{ModId}}_CutthroatTrout": {
+                    "Id": "{{ModId}}_CutthroatTrout",
+                    "ItemId": "(O){{ModId}}_CutthroatTrout",
+                    "Condition": "LOCATION_Season Here Spring Summer"
                 }
             }
         },
@@ -31,10 +26,7 @@
                 "AreaId |contains=<null>": "false"
             },
             "Fields": {
-                "{{ModId}}_Placeholder1": {
-                    "FishAreaId": "{{AreaId}}"
-                },
-                "{{ModId}}_Placeholder2": {
+                "{{ModId}}_CutthroatTrout": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }

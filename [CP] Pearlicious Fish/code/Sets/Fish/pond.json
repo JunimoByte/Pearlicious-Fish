@@ -1,0 +1,35 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "{{TargetName}}",
+                "Fish"
+            ],
+            "Entries": {
+                "{{ModId}}_KoiCarp": {
+                    "Id": "{{ModId}}_KoiCarp",
+                    "ItemId": "(O){{ModId}}_KoiCarp",
+                    "Condition": "LOCATION_Season Here Spring Summer"
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "{{TargetName}}",
+                "Fish"
+            ],
+            "When": {
+                "AreaId |contains=<null>": "false"
+            },
+            "Fields": {
+                "{{ModId}}_KoiCarp": {
+                    "FishAreaId": "{{AreaId}}"
+                }
+            }
+        }
+    ]
+}

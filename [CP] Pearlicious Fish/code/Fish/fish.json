@@ -4,13 +4,13 @@
             "Action": "EditData",
             "Target": "Data/Objects",
             "Entries": {
-                "{{ModId}}_Placeholder1": {
-                    "Name": "{{ModId}}_Placeholder1",
-                    "DisplayName": "{{i18n:{{ModId}}_Placeholder1.displayname}}",
-                    "Description": "{{i18n:{{ModId}}_Placeholder1.description}}",
+                "{{ModId}}_CutthroatTrout": {
+                    "Name": "{{ModId}}_CutthroatTrout",
+                    "DisplayName": "{{i18n:{{ModId}}_CutthroatTrout.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_CutthroatTrout.description}}",
                     "Type": "Fish",
                     "Category": -4,
-                    "Price": 100,
+                    "Price": 75,
                     "Texture": "Mods/{{ModId}}/FishSprite",
                     "SpriteIndex": 0,
                     "Edibility": 25,
@@ -19,33 +19,33 @@
                     "ExcludeFromShippingCollection": true,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
-                        "fish_river",
+                        "fish_pond",
                         "color_green",
-                        "fish_placeholder1",
+                        "fish_cutthroattrout",
                         "season_spring",
-                        "fish_talk_stiff"
+                        "season_summer"
                     ]
                 },
-                "{{ModId}}_Placeholder2": {
-                    "Name": "{{ModId}}_Placeholder2",
-                    "DisplayName": "{{i18n:{{ModId}}_Placeholder2.displayname}}",
-                    "Description": "{{i18n:{{ModId}}_Placeholder2.description}}",
+                "{{ModId}}_KoiCarp": {
+                    "Name": "{{ModId}}_KoiCarp",
+                    "DisplayName": "{{i18n:{{ModId}}_KoiCarp.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_KoiCarp.description}}",
                     "Type": "Fish",
                     "Category": -4,
-                    "Price": 100,
+                    "Price": 70,
                     "Texture": "Mods/{{ModId}}/FishSprite",
                     "SpriteIndex": 1,
-                    "Edibility": 25,
+                    "Edibility": 20,
                     "IsDrink": false,
                     "ExcludeFromFishingCollection": false,
                     "ExcludeFromShippingCollection": true,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
-                        "fish_river",
-                        "color_green",
-                        "fish_placeholder2",
+                        "fish_pond",
+                        "color_red",
+                        "fish_koicarp",
                         "season_spring",
-                        "fish_talk_stiff"
+                        "season_summer"
                     ]
                 }
             }
