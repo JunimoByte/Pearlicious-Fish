@@ -14,6 +14,10 @@
         {
             "Action": "Include",
             "FromFile": "code/Fish/fish.json, code/Fish/aquarium.json, code/Fish/behavior.json, code/Fish/locations.json, code/Fish/pond.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/NPCs/gifts.json"
         }
     ]
 }

@@ -1,0 +1,30 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": [
+                        "Fields",
+                        "Willy",
+                        3
+                    ],
+                    "Value": "(O){{ModId}}_KoiCarp",
+                    "Delimiter": " "
+                },
+                {
+                    "Operation": "Append",
+                    "Target": [
+                        "Fields",
+                        "Willy",
+                        5
+                    ],
+                    "Value": "(O){{ModId}}_CutthroatTrout",
+                    "Delimiter": " "
+                }
+            ]
+        }
+    ]
+}
