@@ -4,6 +4,51 @@
             "Action": "EditData",
             "Target": "Data/FishPondData",
             "Entries": {
+                "{{ModId}}_CutthroatTrout": {
+                    "Id": "id_(O){{ModId}}_CutthroatTrout",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_CutthroatTrout"
+                    ],
+                    "SpawnTime": 5,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.25,
+                            "ItemID": "(O)20", // Leek
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.1,
+                            "ItemID": "(O)198", // Baked Fish
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.05,
+                            "ItemID": "(O)64", // Ruby
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)153 1" // Green Algae
+                        ],
+                        "6": [
+                            "(O)18 2" // Daffodil
+                        ]
+                    }
+                },
                 "{{ModId}}_KoiCarp": {
                     "Id": "id_(O){{ModId}}_KoiCarp",
                     "RequiredTags": [
@@ -13,42 +58,39 @@
                     "ProducedItems": [
                         {
                             "RequiredPopulation": 0,
-                            "Chance": 0.3,
-                            "ItemID": "(O)0", // Common Example
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
                             "MinQuantity": 1,
                             "MaxQuantity": 2
                         },
                         {
                             "RequiredPopulation": 3,
-                            "Chance": 0.2,
-                            "ItemID": "(O)0", // Uncommon Example
+                            "Chance": 0.25,
+                            "ItemID": "(O)398", // Grape
                             "MinQuantity": 1,
                             "MaxQuantity": 2
                         },
                         {
                             "RequiredPopulation": 5,
-                            "Chance": 0.12,
-                            "ItemID": "(O)0", // Rare Example
+                            "Chance": 0.1,
+                            "ItemID": "(O)204", // Lucky Lunch
                             "MinQuantity": 1,
                             "MaxQuantity": 1
                         },
                         {
                             "RequiredPopulation": 8,
-                            "Chance": 0.04,
-                            "ItemID": "(O)0", // Very Rare Example
+                            "Chance": 0.05,
+                            "ItemID": "(O)400", // Strawberry
                             "MinQuantity": 1,
                             "MaxQuantity": 1
                         }
                     ],
                     "PopulationGates": {
                         "3": [
-                            "(O)0 1" // Example ID
+                            "(O)16 1" // Wild Horseradish
                         ],
-                        "5": [
-                            "(O)0 1" // Example ID
-                        ],
-                        "7": [
-                            "(O)0 1" // Example ID
+                        "6": [
+                            "(O)24 2" // Parsnip
                         ]
                     }
                 }

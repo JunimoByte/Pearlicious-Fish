@@ -20,10 +20,11 @@
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
                         "fish_pond",
-                        "color_green",
+                        "fish_has_roe",
                         "fish_cutthroattrout",
                         "season_spring",
-                        "season_summer"
+                        "season_summer",
+                        "color_red"
                     ]
                 },
                 "{{ModId}}_KoiCarp": {
@@ -42,10 +43,11 @@
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
                         "fish_pond",
-                        "color_red",
+                        "fish_has_roe",
                         "fish_koicarp",
                         "season_spring",
-                        "season_summer"
+                        "season_summer",
+                        "color_red"
                     ]
                 }
             }
