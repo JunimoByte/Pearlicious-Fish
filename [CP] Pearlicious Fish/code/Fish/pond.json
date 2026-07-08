@@ -138,6 +138,141 @@
                             "(O)406 3" // Spice Berry
                         ]
                     }
+                },
+                "{{ModId}}_WidemouthBlindcat": {
+                    "Id": "id_(O){{ModId}}_WidemouthBlindcat",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_WidemouthBlindcat"
+                    ],
+                    "SpawnTime": 7,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.25,
+                            "ItemID": "(O)82", // Fire Quartz
+                            "MinQuantity": 2,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.1,
+                            "ItemID": "(O)72", // Diamond
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.05,
+                            "ItemID": "(O)74", // Prismatic Shard
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)64 3" // Ruby
+                        ],
+                        "6": [
+                            "(O)72 1" // Diamond
+                        ]
+                    }
+                },
+                "{{ModId}}_RedBetta": {
+                    "Id": "id_(O){{ModId}}_RedBetta",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_RedBetta"
+                    ],
+                    "SpawnTime": 4,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.25,
+                            "ItemID": "(O)420", // Red Mushroom
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.12,
+                            "ItemID": "(O)223", // Cookies
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.03,
+                            "ItemID": "(O)445", // Caviar
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)420 1" // Red Mushroom
+                        ],
+                        "6": [
+                            "(O)216 2" // Bread
+                        ]
+                    }
+                },
+                "{{ModId}}_BlueBetta": {
+                    "Id": "id_(O){{ModId}}_BlueBetta",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_BlueBetta"
+                    ],
+                    "SpawnTime": 4,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.25,
+                            "ItemID": "(O)422", // Purple Mushroom
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.12,
+                            "ItemID": "(O)223", // Cookies
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.03,
+                            "ItemID": "(O)445", // Caviar
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)422 1" // Purple Mushroom
+                        ],
+                        "6": [
+                            "(O)216 2" // Bread
+                        ]
+                    }
                 }
             }
         }

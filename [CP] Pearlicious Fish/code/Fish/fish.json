@@ -72,6 +72,80 @@
                         "season_fall",
                         "color_green"
                     ]
+                },
+                "{{ModId}}_WidemouthBlindcat": {
+                    "Name": "{{ModId}}_WidemouthBlindcat",
+                    "DisplayName": "{{i18n:{{ModId}}_WidemouthBlindcat.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_WidemouthBlindcat.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 550,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 3,
+                    "Edibility": 15,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_cave",
+                        "fish_has_roe",
+                        "fish_legendary",
+                        "fish_widemouthblindcat",
+                        "season_spring",
+                        "season_summer",
+                        "season_fall",
+                        "season_winter",
+                        "color_white"
+                    ]
+                },
+                "{{ModId}}_RedBetta": {
+                    "Name": "{{ModId}}_RedBetta",
+                    "DisplayName": "{{i18n:{{ModId}}_RedBetta.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_RedBetta.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 65,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 4,
+                    "Edibility": 15,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_pond",
+                        "fish_has_roe",
+                        "fish_redbetta",
+                        "season_spring",
+                        "season_summer",
+                        "season_fall",
+                        "color_red"
+                    ]
+                },
+                "{{ModId}}_BlueBetta": {
+                    "Name": "{{ModId}}_BlueBetta",
+                    "DisplayName": "{{i18n:{{ModId}}_BlueBetta.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_BlueBetta.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 65,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 5,
+                    "Edibility": 15,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_pond",
+                        "fish_has_roe",
+                        "fish_bluebetta",
+                        "season_spring",
+                        "season_summer",
+                        "season_fall",
+                        "color_blue"
+                    ]
                 }
             }
         }

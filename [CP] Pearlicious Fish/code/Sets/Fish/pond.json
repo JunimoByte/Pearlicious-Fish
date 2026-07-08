@@ -12,6 +12,16 @@
                     "Id": "{{ModId}}_KoiCarp",
                     "ItemId": "(O){{ModId}}_KoiCarp",
                     "Condition": "LOCATION_Season Here Spring Summer"
+                },
+                "{{ModId}}_RedBetta": {
+                    "Id": "{{ModId}}_RedBetta",
+                    "ItemId": "(O){{ModId}}_RedBetta",
+                    "Condition": "LOCATION_Season Here Spring Summer Fall"
+                },
+                "{{ModId}}_BlueBetta": {
+                    "Id": "{{ModId}}_BlueBetta",
+                    "ItemId": "(O){{ModId}}_BlueBetta",
+                    "Condition": "LOCATION_Season Here Spring Summer Fall"
                 }
             }
         },
@@ -27,6 +37,12 @@
             },
             "Fields": {
                 "{{ModId}}_KoiCarp": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_RedBetta": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_BlueBetta": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }

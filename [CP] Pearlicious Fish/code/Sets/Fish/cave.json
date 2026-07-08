@@ -1,0 +1,37 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "{{TargetName}}",
+                "Fish"
+            ],
+            "Entries": {
+                "{{ModId}}_WidemouthBlindcat": {
+                    "Id": "{{ModId}}_WidemouthBlindcat",
+                    "ItemId": "(O){{ModId}}_WidemouthBlindcat",
+                    "Condition": "LOCATION_NAME Here UndergroundMine60",
+                    "CatchLimit": 1,
+					"IsBossFish": true
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "{{TargetName}}",
+                "Fish"
+            ],
+            "When": {
+                "AreaId |contains=<null>": "false"
+            },
+            "Fields": {
+                "{{ModId}}_WidemouthBlindcat": {
+                    "FishAreaId": "{{AreaId}}"
+                }
+            }
+        }
+    ]
+}

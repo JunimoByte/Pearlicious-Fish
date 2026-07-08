@@ -36,9 +36,13 @@
                     "GeodeDropsDefaultItems": false,
                     "GeodeDrops": [
                         {
-                            "Id": "BlackTahitianPearl",
+                            "Id": "LegendaryPearls",
                             "Chance": 0.01,
-                            "ItemId": "(O){{ModId}}_BlackTahitianPearl"
+                            "RandomItemId": [
+                                "(O){{ModId}}_BlackTahitianPearl",
+                                "(O){{ModId}}_PeacockTahitianPearl",
+                                "(O){{ModId}}_MeloPearl"
+                            ]
                         },
                         {
                             "Id": "RarePearls",
@@ -46,7 +50,9 @@
                             "RandomItemId": [
                                 "(O){{ModId}}_SilverEdisonPearl",
                                 "(O){{ModId}}_PurpleEdisonPearl",
-                                "(O){{ModId}}_RoseGoldPearl"
+                                "(O){{ModId}}_RoseGoldPearl",
+                                "(O){{ModId}}_PinkEdisonPearl",
+                                "(O){{ModId}}_PurpleRoseEdisonPearl"
                             ]
                         },
                         {
@@ -87,22 +93,27 @@
                     "GeodeDropsDefaultItems": false,
                     "GeodeDrops": [
                         {
-                            "Id": "LegendaryPearl",
+                            "Id": "LegendaryPearls",
                             "Chance": 0.01,
-                            "ItemId": "(O){{ModId}}_BlackTahitianPearl"
-                        },
-                        {
-                            "Id": "RarePearls",
-                            "Chance": 0.065,
                             "RandomItemId": [
-                                "(O){{ModId}}_SilverEdisonPearl",
-                                "(O){{ModId}}_PurpleEdisonPearl",
-                                "(O){{ModId}}_RoseGoldPearl"
+                                "(O){{ModId}}_BlackTahitianPearl",
+                                "(O){{ModId}}_PeacockTahitianPearl"
                             ]
                         },
                         {
-                            "Id": "UncommonPearls",
-                            "Chance": 0.25,
+                            "Id": "RarePearls",
+                            "Chance": 0.055,
+                            "RandomItemId": [
+                                "(O){{ModId}}_SilverEdisonPearl",
+                                "(O){{ModId}}_PurpleEdisonPearl",
+                                "(O){{ModId}}_RoseGoldPearl",
+                                "(O){{ModId}}_PinkEdisonPearl",
+                                "(O){{ModId}}_PurpleRoseEdisonPearl"
+                            ]
+                        },
+                        {
+                            "Id": "Pearls",
+                            "Chance": 0.3,
                             "RandomItemId": [
                                 "(O){{ModId}}_PinkPearl",
                                 "(O){{ModId}}_SmallPinkPearl",
@@ -196,6 +207,42 @@
                         "color_gray"
                     ]
                 },
+                "{{ModId}}_PinkEdisonPearl": {
+                    "Name": "{{ModId}}_PinkEdisonPearl",
+                    "DisplayName": "{{i18n:{{ModId}}_PinkEdisonPearl.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_PinkEdisonPearl.description}}",
+                    "Type": "Basic",
+                    "Category": 0,
+                    "Price": 350,
+                    "Texture": "Mods/{{ModId}}/ObjectSprite",
+                    "SpriteIndex": 5,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": true,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": false,
+                    "ContextTags": [
+                        "color_pink"
+                    ]
+                },
+                "{{ModId}}_PeacockTahitianPearl": {
+                    "Name": "{{ModId}}_PeacockTahitianPearl",
+                    "DisplayName": "{{i18n:{{ModId}}_PeacockTahitianPearl.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_PeacockTahitianPearl.description}}",
+                    "Type": "Basic",
+                    "Category": 0,
+                    "Price": 4000,
+                    "Texture": "Mods/{{ModId}}/ObjectSprite",
+                    "SpriteIndex": 6,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": true,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": false,
+                    "ContextTags": [
+                        "color_pink"
+                    ]
+                },
                 "{{ModId}}_PinkPearl": {
                     "Name": "{{ModId}}_PinkPearl",
                     "DisplayName": "{{i18n:{{ModId}}_PinkPearl.displayname}}",
@@ -274,7 +321,7 @@
                     "Description": "{{i18n:{{ModId}}_BlackTahitianPearl.description}}",
                     "Type": "Basic",
                     "Category": 0,
-                    "Price": 5000,
+                    "Price": 4000,
                     "Texture": "Mods/{{ModId}}/ObjectSprite",
                     "SpriteIndex": 13,
                     "Edibility": -300,
@@ -284,6 +331,42 @@
                     "ExcludeFromRandomSale": false,
                     "ContextTags": [
                         "color_black"
+                    ]
+                },
+                "{{ModId}}_PurpleRoseEdisonPearl": {
+                    "Name": "{{ModId}}_PurpleRoseEdisonPearl",
+                    "DisplayName": "{{i18n:{{ModId}}_PurpleRoseEdisonPearl.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_PurpleRoseEdisonPearl.description}}",
+                    "Type": "Basic",
+                    "Category": 0,
+                    "Price": 350,
+                    "Texture": "Mods/{{ModId}}/ObjectSprite",
+                    "SpriteIndex": 14,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": true,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": false,
+                    "ContextTags": [
+                        "color_purple"
+                    ]
+                },
+                "{{ModId}}_MeloPearl": {
+                    "Name": "{{ModId}}_MeloPearl",
+                    "DisplayName": "{{i18n:{{ModId}}_MeloPearl.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_MeloPearl.description}}",
+                    "Type": "Basic",
+                    "Category": 0,
+                    "Price": 3000,
+                    "Texture": "Mods/{{ModId}}/ObjectSprite",
+                    "SpriteIndex": 15,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": true,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": false,
+                    "ContextTags": [
+                        "color_orange"
                     ]
                 }
             }

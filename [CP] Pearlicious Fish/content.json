@@ -22,7 +22,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "code/Objects/objects.json"
+            "FromFile": "code/Objects/objects.json, code/Objects/machines.json"
         },
         {
             "Action": "Include",
