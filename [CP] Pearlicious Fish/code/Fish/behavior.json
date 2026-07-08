@@ -5,7 +5,8 @@
             "Target": "Data/Fish",
             "Entries": {
                 "{{ModId}}_CutthroatTrout": "{{ModId}}_CutthroatTrout/63/sinker/10/31/600 1000 1500 1800/spring summer/both/690 .3 685/5/.2/.1/3/false",
-                "{{ModId}}_KoiCarp": "{{ModId}}_KoiCarp/60/floater/8/17/600 1600/spring summer/both/690 .3 685/2/.15/.1/3/false"
+                "{{ModId}}_KoiCarp": "{{ModId}}_KoiCarp/60/floater/8/17/600 1600/spring summer/both/690 .3 685/2/.15/.1/3/false",
+                "{{ModId}}_Musky": "{{ModId}}_Musky/70/sinker/12/35/800 1600/summer fall/both/690 .3 685/3/.14/.1/4/false"
             }
         }
     ]

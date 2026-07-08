@@ -19,7 +19,7 @@
                     "ExcludeFromShippingCollection": true,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
-                        "fish_pond",
+                        "fish_mountain",
                         "fish_has_roe",
                         "fish_cutthroattrout",
                         "season_spring",
@@ -48,6 +48,29 @@
                         "season_spring",
                         "season_summer",
                         "color_red"
+                    ]
+                },
+                "{{ModId}}_Musky": {
+                    "Name": "{{ModId}}_Musky",
+                    "DisplayName": "{{i18n:{{ModId}}_Musky.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_Musky.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 85,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 2,
+                    "Edibility": 25,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_river",
+                        "fish_has_roe",
+                        "fish_musky",
+                        "season_summer",
+                        "season_fall",
+                        "color_green"
                     ]
                 }
             }

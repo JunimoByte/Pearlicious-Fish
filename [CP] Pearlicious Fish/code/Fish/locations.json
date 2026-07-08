@@ -15,6 +15,14 @@
                 "TargetName": "Forest",
                 "AreaId": "Lake"
             }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Sets/Fish/river.json",
+            "LocalTokens": {
+                "TargetName": "Town",
+                "AreaId": "<null>"
+            }
         }
     ]
 }

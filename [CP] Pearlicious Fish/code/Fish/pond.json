@@ -93,6 +93,51 @@
                             "(O)24 2" // Parsnip
                         ]
                     }
+                },
+                "{{ModId}}_Musky": {
+                    "Id": "id_(O){{ModId}}_Musky",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_Musky"
+                    ],
+                    "SpawnTime": 5,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.25,
+                            "ItemID": "(O)396", // Spice Berry
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.1,
+                            "ItemID": "(O)201", // Complete Breakfast
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.05,
+                            "ItemID": "(O)60", // Emerald
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)250 1" // Kale
+                        ],
+                        "6": [
+                            "(O)406 3" // Spice Berry
+                        ]
+                    }
                 }
             }
         }
