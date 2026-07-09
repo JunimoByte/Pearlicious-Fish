@@ -26,6 +26,14 @@
         },
         {
             "Action": "Include",
+            "FromFile": "code/Sets/Fish/river.json",
+            "LocalTokens": {
+                "TargetName": "Forest",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
             "FromFile": "code/Sets/Fish/cave.json",
             "LocalTokens": {
                 "TargetName": "UndergroundMine",
