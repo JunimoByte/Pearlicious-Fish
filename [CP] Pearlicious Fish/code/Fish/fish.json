@@ -153,7 +153,7 @@
                     "Description": "{{i18n:{{ModId}}_Snakehead.description}}",
                     "Type": "Fish",
                     "Category": -4,
-                    "Price": 85,
+                    "Price": 90,
                     "Texture": "Mods/{{ModId}}/FishSprite",
                     "SpriteIndex": 6,
                     "Edibility": 30,
@@ -175,7 +175,7 @@
                     "Description": "{{i18n:{{ModId}}_PeacockBass.description}}",
                     "Type": "Fish",
                     "Category": -4,
-                    "Price": 100,
+                    "Price": 110,
                     "Texture": "Mods/{{ModId}}/FishSprite",
                     "SpriteIndex": 7,
                     "Edibility": 20,
@@ -190,6 +190,28 @@
                         "season_summer",
                         "season_fall",
                         "color_lime"
+                    ]
+                },
+                "{{ModId}}_BlackBuffalo": {
+                    "Name": "{{ModId}}_BlackBuffalo",
+                    "DisplayName": "{{i18n:{{ModId}}_BlackBuffalo.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_BlackBuffalo.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 70,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 8,
+                    "Edibility": 23,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_river",
+                        "fish_has_roe",
+                        "fish_blackbuffalo",
+                        "season_spring",
+                        "color_brown"
                     ]
                 }
             }

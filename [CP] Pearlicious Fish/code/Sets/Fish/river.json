@@ -22,6 +22,11 @@
                     "Id": "{{ModId}}_PeacockBass",
                     "ItemId": "(O){{ModId}}_PeacockBass",
                     "Condition": "LOCATION_Season Here Summer Fall"
+                },
+                "{{ModId}}_BlackBuffalo": {
+                    "Id": "{{ModId}}_BlackBuffalo",
+                    "ItemId": "(O){{ModId}}_BlackBuffalo",
+                    "Condition": "LOCATION_Season Here Spring"
                 }
             }
         },
@@ -43,6 +48,9 @@
                     "FishAreaId": "{{AreaId}}"
                 },
                 "{{ModId}}_PeacockBass": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_BlackBuffalo": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }

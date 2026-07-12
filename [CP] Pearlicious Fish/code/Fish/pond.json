@@ -363,6 +363,51 @@
                             "(O)723 1" // Snail
                         ]
                     }
+                },
+                "{{ModId}}_BlackBuffalo": {
+                    "Id": "id_(O){{ModId}}_BlackBuffalo",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_BlackBuffalo"
+                    ],
+                    "SpawnTime": 4,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.25,
+                            "ItemID": "(O)153", // Green Algae
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.12,
+                            "ItemID": "(O)372", // Clam
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.03,
+                            "ItemID": "(O)797", // Pearl
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)153 1" // Green Algae
+                        ],
+                        "6": [
+                            "(O)372 1" // Clam
+                        ]
+                    }
                 }
             }
         }

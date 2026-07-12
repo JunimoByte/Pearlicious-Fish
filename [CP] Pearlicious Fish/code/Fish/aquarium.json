@@ -11,7 +11,8 @@
                 "{{ModId}}_RedBetta": "4/fish/////Mods\\{{ModId}}\\AquariumSprite",
                 "{{ModId}}_BlueBetta": "5/fish/////Mods\\{{ModId}}\\AquariumSprite",
                 "{{ModId}}_Snakehead": "6/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_PeacockBass": "7/fish/////Mods\\{{ModId}}\\AquariumSprite"
+                "{{ModId}}_PeacockBass": "7/fish/////Mods\\{{ModId}}\\AquariumSprite",
+                "{{ModId}}_BlackBuffalo": "8/fish/////Mods\\{{ModId}}\\AquariumSprite"
             }
         }
     ]

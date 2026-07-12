@@ -11,7 +11,8 @@
                 "{{ModId}}_RedBetta": "{{ModId}}_RedBetta/55/floater/2/4/600 2200/spring summer fall/both/690 .3 685/2/.12/.1/2/false",
                 "{{ModId}}_BlueBetta": "{{ModId}}_BlueBetta/55/floater/2/4/600 2200/spring summer fall/both/690 .3 685/2/.12/.1/2/false",
                 "{{ModId}}_Snakehead": "{{ModId}}_Snakehead/68/floater/12/33/1200 1800/summer/both/690 .3 685/3/.14/.1/4/false",
-                "{{ModId}}_PeacockBass": "{{ModId}}_PeacockBass/73/dart/10/23/600 1400/summer fall/both/690 .3 685/3/.13/.1/4/false"
+                "{{ModId}}_PeacockBass": "{{ModId}}_PeacockBass/73/dart/10/23/600 1400/summer fall/both/690 .3 685/3/.13/.1/4/false",
+                "{{ModId}}_BlackBuffalo": "{{ModId}}_BlackBuffalo/60/sinker/17/48/800 1800/spring/both/690 .3 685/2/.2/.1/4/false"
             }
         }
     ]
