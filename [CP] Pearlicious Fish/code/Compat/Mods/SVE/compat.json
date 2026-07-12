@@ -1,0 +1,20 @@
+{
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "code/Sets/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Custom_Highlands",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Sets/river.json",
+            "LocalTokens": {
+                "TargetName": "Custom_GrampletonSuburbs",
+                "AreaId": "<null>"
+            }
+        }
+    ]
+}

@@ -27,6 +27,10 @@
         {
             "Action": "Include",
             "FromFile": "code/NPCs/gifts.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/index.json"
         }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/Mods/SVE/compat.json",
+            "When": {
+                "HasMod": "FlashShifter.StardewValleyExpandedCP"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/Mods/EastScarp/compat.json",
+            "When": {
+                "HasMod": "Lemurkat.EastScarp"
+            }
+        }
+    ]
+}
