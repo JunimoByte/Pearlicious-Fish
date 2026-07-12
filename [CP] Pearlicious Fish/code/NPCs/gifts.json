@@ -7,21 +7,19 @@
                 {
                     "Operation": "Append",
                     "Target": [
-                        "Fields",
-                        "Willy",
-                        3
+                        "Entries",
+                        "Universal_Like"
                     ],
-                    "Value": "(O){{ModId}}_KoiCarp",
+                    "Value": "{{ModId}}_SilverEdisonPearl {{ModId}}_PurpleEdisonPearl {{ModId}}_RoseGoldPearl {{ModId}}_PinkEdisonPearl {{ModId}}_PurpleRoseEdisonPearl {{ModId}}_PinkPearl {{ModId}}_SmallPinkPearl {{ModId}}_PurplePearl {{ModId}}_SmallPurplePearl {{ModId}}_SmallRoseGoldPearl",
                     "Delimiter": " "
                 },
                 {
                     "Operation": "Append",
                     "Target": [
-                        "Fields",
-                        "Willy",
-                        5
+                        "Entries",
+                        "Universal_Love"
                     ],
-                    "Value": "(O){{ModId}}_CutthroatTrout",
+                    "Value": "{{ModId}}_BlackTahitianPearl {{ModId}}_PeacockTahitianPearl {{ModId}}_MeloPearl",
                     "Delimiter": " "
                 }
             ]

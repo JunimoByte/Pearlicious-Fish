@@ -16,7 +16,7 @@
                     "Edibility": 25,
                     "IsDrink": false,
                     "ExcludeFromFishingCollection": false,
-                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromShippingCollection": false,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
                         "fish_mountain",
@@ -39,7 +39,7 @@
                     "Edibility": 20,
                     "IsDrink": false,
                     "ExcludeFromFishingCollection": false,
-                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromShippingCollection": false,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
                         "fish_pond",
@@ -62,7 +62,7 @@
                     "Edibility": 25,
                     "IsDrink": false,
                     "ExcludeFromFishingCollection": false,
-                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromShippingCollection": false,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
                         "fish_river",
@@ -85,7 +85,7 @@
                     "Edibility": 15,
                     "IsDrink": false,
                     "ExcludeFromFishingCollection": false,
-                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromShippingCollection": false,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
                         "fish_cave",
@@ -111,7 +111,7 @@
                     "Edibility": 15,
                     "IsDrink": false,
                     "ExcludeFromFishingCollection": false,
-                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromShippingCollection": false,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
                         "fish_pond",
@@ -135,7 +135,7 @@
                     "Edibility": 15,
                     "IsDrink": false,
                     "ExcludeFromFishingCollection": false,
-                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromShippingCollection": false,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
                         "fish_pond",
@@ -145,6 +145,51 @@
                         "season_summer",
                         "season_fall",
                         "color_blue"
+                    ]
+                },
+                "{{ModId}}_Snakehead": {
+                    "Name": "{{ModId}}_Snakehead",
+                    "DisplayName": "{{i18n:{{ModId}}_Snakehead.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_Snakehead.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 85,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 6,
+                    "Edibility": 30,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_river",
+                        "fish_has_roe",
+                        "fish_snakehead",
+                        "season_summer",
+                        "color_green"
+                    ]
+                },
+                "{{ModId}}_PeacockBass": {
+                    "Name": "{{ModId}}_PeacockBass",
+                    "DisplayName": "{{i18n:{{ModId}}_PeacockBass.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_PeacockBass.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 100,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 7,
+                    "Edibility": 20,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_river",
+                        "fish_has_roe",
+                        "fish_peacockbass",
+                        "season_summer",
+                        "season_fall",
+                        "color_lime"
                     ]
                 }
             }

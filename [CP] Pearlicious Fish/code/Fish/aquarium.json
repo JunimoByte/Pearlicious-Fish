@@ -9,7 +9,9 @@
                 "{{ModId}}_Musky": "2/fish/////Mods\\{{ModId}}\\AquariumSprite",
                 "{{ModId}}_WidemouthBlindcat": "3/fish/////Mods\\{{ModId}}\\AquariumSprite",
                 "{{ModId}}_RedBetta": "4/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_BlueBetta": "5/fish/////Mods\\{{ModId}}\\AquariumSprite"
+                "{{ModId}}_BlueBetta": "5/fish/////Mods\\{{ModId}}\\AquariumSprite",
+                "{{ModId}}_Snakehead": "6/fish/////Mods\\{{ModId}}\\AquariumSprite",
+                "{{ModId}}_PeacockBass": "7/fish/////Mods\\{{ModId}}\\AquariumSprite"
             }
         }
     ]

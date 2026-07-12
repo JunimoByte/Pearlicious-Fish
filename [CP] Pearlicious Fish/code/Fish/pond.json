@@ -273,6 +273,96 @@
                             "(O)216 2" // Bread
                         ]
                     }
+                },
+                "{{ModId}}_Snakehead": {
+                    "Id": "id_(O){{ModId}}_Snakehead",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_Snakehead"
+                    ],
+                    "SpawnTime": 5,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.25,
+                            "ItemID": "(O)766", // Slime
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.1,
+                            "ItemID": "(O)723", // Oyster
+                            "MinQuantity": 2,
+                            "MaxQuantity": 3
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.05,
+                            "ItemID": "(O)614", // Green Tea
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)766 2" // Slime
+                        ],
+                        "6": [
+                            "(O)535 2" // Geode
+                        ]
+                    }
+                },
+                "{{ModId}}_PeacockBass": {
+                    "Id": "id_(O){{ModId}}_PeacockBass",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_PeacockBass"
+                    ],
+                    "SpawnTime": 4,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.25,
+                            "ItemID": "(O)372", // Clam
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.12,
+                            "ItemID": "(O)721", // Snail
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.03,
+                            "ItemID": "(O)336", // Gold Bar
+                            "MinQuantity": 1,
+                            "MaxQuantity": 3
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)372 2" // Clam
+                        ],
+                        "6": [
+                            "(O)723 1" // Snail
+                        ]
+                    }
                 }
             }
         }

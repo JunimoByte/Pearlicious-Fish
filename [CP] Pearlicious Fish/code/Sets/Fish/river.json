@@ -12,6 +12,16 @@
                     "Id": "{{ModId}}_Musky",
                     "ItemId": "(O){{ModId}}_Musky",
                     "Condition": "LOCATION_Season Here Summer Fall"
+                },
+                "{{ModId}}_Snakehead": {
+                    "Id": "{{ModId}}_Snakehead",
+                    "ItemId": "(O){{ModId}}_Snakehead",
+                    "Condition": "LOCATION_Season Here Summer"
+                },
+                "{{ModId}}_PeacockBass": {
+                    "Id": "{{ModId}}_PeacockBass",
+                    "ItemId": "(O){{ModId}}_PeacockBass",
+                    "Condition": "LOCATION_Season Here Summer Fall"
                 }
             }
         },
@@ -27,6 +37,12 @@
             },
             "Fields": {
                 "{{ModId}}_Musky": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_Snakehead": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_PeacockBass": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }
