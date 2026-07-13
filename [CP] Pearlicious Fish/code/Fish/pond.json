@@ -408,6 +408,58 @@
                             "(O)372 1" // Clam
                         ]
                     }
+                },
+                "{{ModId}}_Arapaima": {
+                    "Id": "id_(O){{ModId}}_Arapaima",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_Arapaima"
+                    ],
+                    "SpawnTime": 4,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.2,
+                            "ItemID": "(O)213", // Fish Taco
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.08,
+                            "ItemID": "(O)72", // Diamond
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.05,
+                            "ItemID": "(O)797", // Pearl
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.03,
+                            "ItemID": "(O)74", // Prismatic Shard
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)72 1" // Diamond
+                        ],
+                        "6": [
+                            "(O)797 1" // Pearl
+                        ]
+                    }
                 }
             }
         }

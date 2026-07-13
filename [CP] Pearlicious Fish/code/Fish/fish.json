@@ -213,6 +213,29 @@
                         "season_spring",
                         "color_brown"
                     ]
+                },
+                "{{ModId}}_Arapaima": {
+                    "Name": "{{ModId}}_Arapaima",
+                    "DisplayName": "{{i18n:{{ModId}}_Arapaima.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_Arapaima.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 750,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 9,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_river",
+                        "fish_has_roe",
+                        "fish_arapaima",
+                        "season_fall",
+                        "season_winter",
+                        "color_red"
+                    ]
                 }
             }
         }

@@ -13,6 +13,13 @@
             "When": {
                 "HasMod": "Lemurkat.EastScarp"
             }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/Mods/MobyDick/compat.json",
+            "When": {
+                "HasMod": "mushymato.MobyDick"
+            }
         }
     ]
 }

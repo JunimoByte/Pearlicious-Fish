@@ -27,6 +27,11 @@
                     "Id": "{{ModId}}_BlackBuffalo",
                     "ItemId": "(O){{ModId}}_BlackBuffalo",
                     "Condition": "LOCATION_Season Here Spring"
+                },
+                "{{ModId}}_Arapaima": {
+                    "Id": "{{ModId}}_Arapaima",
+                    "ItemId": "(O){{ModId}}_Arapaima",
+                    "Condition": "LOCATION_Season Here Fall Winter"
                 }
             }
         },
@@ -51,6 +56,9 @@
                     "FishAreaId": "{{AreaId}}"
                 },
                 "{{ModId}}_BlackBuffalo": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_Arapaima": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }

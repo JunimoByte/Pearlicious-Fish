@@ -1,0 +1,35 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "mushymato.MobyDick/Data",
+            "Entries": {
+                "{{ModId}}_Arapaima": {
+                    "SpriteSize": {
+                        "X": 24,
+                        "Y": 18
+                    },
+                    "WiggleSegmentLength": 4,
+                    "AquariumTextureOverride": "Mods\\{{ModId}}\\MobyDickSprite",
+                    "AquariumTextureRect": {
+                        "X": 216,
+                        "Y": 0,
+                        "Width": 192,
+                        "Height": 16
+                    },
+                    "SwimAnimation": [
+                        0
+                    ],
+                    "SwimAnimationInterval": 125,
+                    "HeldItemOriginOffset": "0,2",
+                    "MinimumVelocity": "0.1",
+                    "MinimumVelocityVariance": "0.2",
+                    "SwimVelocityMin": 3,
+                    "SwimVelocityMax": 4,
+                    "SwimCooldownMin": 3,
+                    "SwimCooldownMax": 12
+                }
+            }
+        }
+    ]
+}
