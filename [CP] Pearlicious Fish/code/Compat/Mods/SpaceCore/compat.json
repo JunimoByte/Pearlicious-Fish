@@ -2,21 +2,40 @@
     "Changes": [
         {
             "Action": "EditData",
-            "Target": "spacechase0.SpaceCore/ItemExtensions",
-            "Entries": {
+            "Target": "Data/Objects",
+            "Fields": {
                 "{{ModId}}_SirensSignetRing": {
-                    "EquipBuffs": [
+                    "Description": "{{i18n:{{ModId}}_SirensSignetRing.description}}",
+                    "Buffs": [
                         {
-                            "Id": "{{ModId}}_SirensSignetBuff",
-                            "Duration": -1,
-                            "CustomAttributes": {
-                                "Fishing": 2
-                            },
-                            "IconTexture": "Mods/{{ModId}}/ObjectSprite",
-                            "IconSpriteIndex": 16,
-                            "DisplaySource": "{{i18n:{{ModId}}_SirensSignetRing.displayname}}"
+                            "BuffId": "{{ModId}}_SirensSignetBuff",
+                            "Duration": -2
                         }
                     ]
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Buffs",
+            "Entries": {
+                "{{ModId}}_SirensSignetBuff": {
+                    "DisplayName": "{{i18n:{{ModId}}_SirensSignetRing.displayname}}",
+                    "IconTexture": "Mods/{{ModId}}/ObjectSprite",
+                    "IconSpriteIndex": 16,
+                    "Duration": -2,
+                    "Effects": {
+                        "LuckLevel": 2
+                    }
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "spacechase0.SpaceCore/WearableData",
+            "Entries": {
+                "(O){{ModId}}_SirensSignetRing": {
+                    "BuffIdToApply": "{{ModId}}_SirensSignetBuff"
                 }
             }
         }

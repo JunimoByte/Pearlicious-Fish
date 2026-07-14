@@ -1,0 +1,11 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/CraftingRecipes",
+            "Entries": {
+                "{{ModId}}_SirensSignetRing": "(O)336 5 (O)797 3 (O){{ModId}}_PurpleRoseEdisonPearl 1/Home/(O){{ModId}}_SirensSignetRing 1/false/s Fishing 4"
+            }
+        }
+    ]
+}

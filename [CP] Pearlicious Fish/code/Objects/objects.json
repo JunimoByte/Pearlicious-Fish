@@ -372,14 +372,14 @@
                 "{{ModId}}_SirensSignetRing": {
                     "Name": "{{ModId}}_SirensSignetRing",
                     "DisplayName": "{{i18n:{{ModId}}_SirensSignetRing.displayname}}",
-                    "Description": "{{i18n:{{ModId}}_SirensSignetRing.description}}",
+                    "Description": "{{i18n:{{ModId}}_CosmeticSirensSignetRing.description}}",
                     "Type": "Ring",
                     "Category": -96,
-                    "Price": 3000,
+                    "Price": 2500,
                     "Texture": "Mods/{{ModId}}/ObjectSprite",
                     "SpriteIndex": 16,
                     "ExcludeFromFishingCollection": true,
-                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromShippingCollection": true,
                     "ExcludeFromRandomSale": false,
                     "ContextTags": [
                         "color_pink",

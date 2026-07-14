@@ -27,7 +27,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "code/Objects/objects.json, code/Objects/machines.json"
+            "FromFile": "code/Objects/objects.json, code/Objects/machines.json, code/Objects/recipes.json"
         },
         {
             "Action": "Include",
