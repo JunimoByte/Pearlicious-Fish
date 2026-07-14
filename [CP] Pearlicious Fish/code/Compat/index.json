@@ -2,6 +2,20 @@
     "Changes": [
         {
             "Action": "Include",
+            "FromFile": "code/Compat/Mods/SpaceCore/compat.json",
+            "When": {
+                "HasMod": "spacechase0.SpaceCore"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/Mods/MobyDick/compat.json",
+            "When": {
+                "HasMod": "mushymato.MobyDick"
+            }
+        },
+        {
+            "Action": "Include",
             "FromFile": "code/Compat/Mods/SVE/compat.json",
             "When": {
                 "HasMod": "FlashShifter.StardewValleyExpandedCP"
@@ -12,13 +26,6 @@
             "FromFile": "code/Compat/Mods/EastScarp/compat.json",
             "When": {
                 "HasMod": "Lemurkat.EastScarp"
-            }
-        },
-        {
-            "Action": "Include",
-            "FromFile": "code/Compat/Mods/MobyDick/compat.json",
-            "When": {
-                "HasMod": "mushymato.MobyDick"
             }
         }
     ]

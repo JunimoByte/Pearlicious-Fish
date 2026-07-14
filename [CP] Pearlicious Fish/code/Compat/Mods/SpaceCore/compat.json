@@ -1,0 +1,24 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "spacechase0.SpaceCore/ItemExtensions",
+            "Entries": {
+                "{{ModId}}_SirensSignetRing": {
+                    "EquipBuffs": [
+                        {
+                            "Id": "{{ModId}}_SirensSignetBuff",
+                            "Duration": -1,
+                            "CustomAttributes": {
+                                "Fishing": 2
+                            },
+                            "IconTexture": "Mods/{{ModId}}/ObjectSprite",
+                            "IconSpriteIndex": 16,
+                            "DisplaySource": "{{i18n:{{ModId}}_SirensSignetRing.displayname}}"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

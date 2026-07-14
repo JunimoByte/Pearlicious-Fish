@@ -368,6 +368,23 @@
                     "ContextTags": [
                         "color_orange"
                     ]
+                },
+                "{{ModId}}_SirensSignetRing": {
+                    "Name": "{{ModId}}_SirensSignetRing",
+                    "DisplayName": "{{i18n:{{ModId}}_SirensSignetRing.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_SirensSignetRing.description}}",
+                    "Type": "Ring",
+                    "Category": -96,
+                    "Price": 3000,
+                    "Texture": "Mods/{{ModId}}/ObjectSprite",
+                    "SpriteIndex": 16,
+                    "ExcludeFromFishingCollection": true,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": false,
+                    "ContextTags": [
+                        "color_pink",
+                        "ring_item"
+                    ]
                 }
             }
         }
