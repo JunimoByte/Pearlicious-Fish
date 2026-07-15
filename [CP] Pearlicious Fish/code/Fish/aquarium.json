@@ -15,7 +15,7 @@
                 "{{ModId}}_BlackBuffalo": "8/fish/////Mods\\{{ModId}}\\AquariumSprite",
                 "{{ModId}}_Arapaima": "9/fish/////Mods\\{{ModId}}\\AquariumSprite",
                 "{{ModId}}_ButterflyKoi": "10/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_HillstreamLoach": "11/fish/////Mods\\{{ModId}}\\AquariumSprite"
+                "{{ModId}}_HillstreamLoach": "11/crawl/////Mods\\{{ModId}}\\AquariumSprite"
             }
         }
     ]
