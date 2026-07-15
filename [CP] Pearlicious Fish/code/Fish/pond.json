@@ -460,6 +460,51 @@
                             "(O)797 1" // Pearl
                         ]
                     }
+                },
+                "{{ModId}}_ButterflyKoi": {
+                    "Id": "id_(O){{ModId}}_ButterflyKoi",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_ButterflyKoi"
+                    ],
+                    "SpawnTime": 5,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.25,
+                            "ItemID": "(O)254", // Melon
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.1,
+                            "ItemID": "(O)198", // Baked Fish
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.05,
+                            "ItemID": "(O)410", // Blackberry
+                            "MinQuantity": 3,
+                            "MaxQuantity": 5
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)260 1" // Hot Pepper
+                        ],
+                        "6": [
+                            "(O)24 2" // Parsnip
+                        ]
+                    }
                 }
             }
         }

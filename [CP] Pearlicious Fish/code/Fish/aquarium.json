@@ -13,7 +13,8 @@
                 "{{ModId}}_Snakehead": "6/fish/////Mods\\{{ModId}}\\AquariumSprite",
                 "{{ModId}}_PeacockBass": "7/fish/////Mods\\{{ModId}}\\AquariumSprite",
                 "{{ModId}}_BlackBuffalo": "8/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_Arapaima": "9/fish/////Mods\\{{ModId}}\\AquariumSprite"
+                "{{ModId}}_Arapaima": "9/fish/////Mods\\{{ModId}}\\AquariumSprite",
+                "{{ModId}}_ButterflyKoi": "10/fish/////Mods\\{{ModId}}\\AquariumSprite"
             }
         }
     ]

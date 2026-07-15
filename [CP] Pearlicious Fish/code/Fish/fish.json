@@ -236,6 +236,28 @@
                         "season_winter",
                         "color_red"
                     ]
+                },
+                "{{ModId}}_ButterflyKoi": {
+                    "Name": "{{ModId}}_ButterflyKoi",
+                    "DisplayName": "{{i18n:{{ModId}}_ButterflyKoi.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_ButterflyKoi.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 85,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 10,
+                    "Edibility": 23,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_pond",
+                        "fish_has_roe",
+                        "fish_butterflykoi",
+                        "season_summer",
+                        "color_red"
+                    ]
                 }
             }
         }

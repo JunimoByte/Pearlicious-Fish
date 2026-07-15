@@ -22,6 +22,11 @@
                     "Id": "{{ModId}}_BlueBetta",
                     "ItemId": "(O){{ModId}}_BlueBetta",
                     "Condition": "LOCATION_Season Here Spring Summer Fall"
+                },
+                "{{ModId}}_ButterflyKoi": {
+                    "Id": "{{ModId}}_ButterflyKoi",
+                    "ItemId": "(O){{ModId}}_ButterflyKoi",
+                    "Condition": "LOCATION_Season Here Summer"
                 }
             }
         },
@@ -43,6 +48,9 @@
                     "FishAreaId": "{{AreaId}}"
                 },
                 "{{ModId}}_BlueBetta": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_ButterflyKoi": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }
