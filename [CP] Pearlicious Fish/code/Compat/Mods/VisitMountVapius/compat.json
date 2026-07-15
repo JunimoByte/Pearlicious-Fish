@@ -1,0 +1,60 @@
+{
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/river.json",
+            "LocalTokens": {
+                "TargetName": "Lumisteria.MtVapius_Hamlet",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Lumisteria.MtVapius_Orchard",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Lumisteria.MtVapius_TrainStation",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Lumisteria.MtVapius_ForestTrailWoodland",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Lumisteria.MtVapius_ForestCrystalLake",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/pond.json",
+            "LocalTokens": {
+                "TargetName": "Lumisteria.MtVapius_ForestCaveMoonPond",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/cave.json",
+            "LocalTokens": {
+                "TargetName": "Lumisteria.MtVapius_ForestCaveHigh",
+                "AreaId": "<null>"
+            }
+        }
+    ]
+} 

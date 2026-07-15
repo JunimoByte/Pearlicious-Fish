@@ -12,6 +12,11 @@
                     "Id": "{{ModId}}_CutthroatTrout",
                     "ItemId": "(O){{ModId}}_CutthroatTrout",
                     "Condition": "LOCATION_Season Here Spring Summer"
+                },
+                "{{ModId}}_HillstreamLoach": {
+                    "Id": "{{ModId}}_HillstreamLoach",
+                    "ItemId": "(O){{ModId}}_HillstreamLoach",
+                    "Condition": "LOCATION_Season Here Summer Fall"
                 }
             }
         },
@@ -27,6 +32,9 @@
             },
             "Fields": {
                 "{{ModId}}_CutthroatTrout": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_HillstreamLoach": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }

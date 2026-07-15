@@ -505,6 +505,51 @@
                             "(O)24 2" // Parsnip
                         ]
                     }
+                },
+                "{{ModId}}_HillstreamLoach": {
+                    "Id": "id_(O){{ModId}}_HillstreamLoach",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_HillstreamLoach"
+                    ],
+                    "SpawnTime": 6,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.2,
+                            "ItemID": "(O)408", // Hazelnut
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.1,
+                            "ItemID": "(O)257", // Morel
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.1,
+                            "ItemID": "(O)724", // Maple Syrup
+                            "MinQuantity": 2,
+                            "MaxQuantity": 4
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)726 1" // Pine Tar
+                        ],
+                        "6": [
+                            "(O)724 2" // Maple Syrup
+                        ]
+                    }
                 }
             }
         }

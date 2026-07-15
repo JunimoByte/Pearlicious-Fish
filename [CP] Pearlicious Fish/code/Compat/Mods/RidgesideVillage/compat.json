@@ -1,0 +1,44 @@
+{
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/river.json",
+            "LocalTokens": {
+                "TargetName": "Custom_Ridgeside_RidgesideVillage",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Custom_Ridgeside_RidgeForest",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Custom_Ridgeside_RidgeFalls",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Custom_Ridgeside_Ridge",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Custom_Ridgeside_SummitFarm",
+                "AreaId": "<null>"
+            }
+        }
+    ]
+}

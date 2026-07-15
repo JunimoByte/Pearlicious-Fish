@@ -234,6 +234,7 @@
                         "fish_arapaima",
                         "season_fall",
                         "season_winter",
+                        "weather_rainy",
                         "color_red"
                     ]
                 },
@@ -257,6 +258,30 @@
                         "fish_butterflykoi",
                         "season_summer",
                         "color_red"
+                    ]
+                },
+                "{{ModId}}_HillstreamLoach": {
+                    "Name": "{{ModId}}_HillstreamLoach",
+                    "DisplayName": "{{i18n:{{ModId}}_HillstreamLoach.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_HillstreamLoach.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 95,
+                    "Texture": "Mods/{{ModId}}/FishSprite",
+                    "SpriteIndex": 11,
+                    "Edibility": 15,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_mountain",
+                        "fish_has_roe",
+                        "fish_hillstreamloach",
+                        "season_summer",
+                        "season_fall",
+                        "weather_rainy",
+                        "color_green"
                     ]
                 }
             }

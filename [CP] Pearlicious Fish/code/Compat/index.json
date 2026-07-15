@@ -27,6 +27,20 @@
             "When": {
                 "HasMod": "Lemurkat.EastScarp"
             }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/Mods/RidgesideVillage/compat.json",
+            "When": {
+                "HasMod": "Rafseazz.RidgesideVillage"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/Mods/VisitMountVapius/compat.json",
+            "When": {
+                "HasMod": "lumisteria.visitmountvapius.code"
+            }
         }
     ]
 }
