@@ -21,7 +21,7 @@
                         0
                     ],
                     "SwimAnimationInterval": 125,
-                    "HeldItemOriginOffset": "0,2",
+                    "HeldItemOriginOffset": "0,-3",
                     "MinimumVelocity": "0.1",
                     "MinimumVelocityVariance": "0.2",
                     "SwimVelocityMin": 3,
