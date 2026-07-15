@@ -18,6 +18,11 @@
         },
         {
             "Action": "Load",
+            "Target": "Mods/{{ModId}}/WeaponSprite",
+            "FromFile": "assets/WeaponSprite.png"
+        },
+        {
+            "Action": "Load",
             "Target": "Mods/{{ModId}}/MobyDickSprite",
             "FromFile": "assets/MobyDickSprite.png"
         },
@@ -27,7 +32,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "code/Objects/objects.json, code/Objects/machines.json, code/Objects/recipes.json"
+            "FromFile": "code/Objects/objects.json, code/Objects/machines.json, code/Objects/weapons.json, code/Objects/recipes.json"
         },
         {
             "Action": "Include",

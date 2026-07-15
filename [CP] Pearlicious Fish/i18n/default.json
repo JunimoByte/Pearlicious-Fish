@@ -53,5 +53,11 @@
     "LucyAndCalart.PF_MeloPearl.description": "An incredibly rare pearl with a warm orange glow. Unlike most pearls, it isn't formed inside an oyster.",
     "LucyAndCalart.PF_SirensSignetRing.displayname": "Siren's Signet Ring",
     "LucyAndCalart.PF_SirensSignetRing.description": "A ring made from a rare sea pearl. +2 luck.",
-    "LucyAndCalart.PF_CosmeticSirensSignetRing.description": "A ring made from a rare sea pearl."
+    "LucyAndCalart.PF_CosmeticSirensSignetRing.description": "A ring made from a rare sea pearl.",
+    "LucyAndCalart.PF_RoyalFang.displayname": "Royal Fang",
+    "LucyAndCalart.PF_RoyalFang.description": "A royal dagger crafted for quick and precise strikes.",
+    "LucyAndCalart.PF_SeaKingsMaul.displayname": "Sea King's Maul",
+    "LucyAndCalart.PF_SeaKingsMaul.description": "A massive maul with the crushing weight of the Fern Islands.",
+    "LucyAndCalart.PF_SirensSaber.displayname": "Siren's Saber",
+    "LucyAndCalart.PF_SirensSaber.description": "A legendary saber crafted from gold and rare ocean pearls."
 }

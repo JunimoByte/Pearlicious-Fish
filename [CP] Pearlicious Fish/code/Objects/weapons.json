@@ -1,0 +1,64 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Weapons",
+            "Entries": {
+                "{{ModId}}_RoyalFang": {
+                    "Name": "{{ModId}}_RoyalFang",
+                    "DisplayName": "{{i18n:{{ModId}}_RoyalFang.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_RoyalFang.displayname}}",
+                    "Type": 1,
+                    "Texture": "Mods/{{ModId}}/WeaponSprite",
+                    "SpriteIndex": 0,
+                    "MinDamage": 60,
+                    "MaxDamage": 70,
+                    "Knockback": 0.7,
+                    "Speed": 6,
+                    "Precision": 15,
+                    "Defense": 0,
+                    "AreaOfEffect": 0,
+                    "CritChance": 0.12,
+                    "CritMultiplier": 3.5,
+                    "CanBeLostOnDeath": false
+                },
+                "{{ModId}}_SeaKingsMaul": {
+                    "Name": "{{ModId}}_SeaKingsMaul",
+                    "DisplayName": "{{i18n:{{ModId}}_SeaKingsMaul.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_SeaKingsMaul.displayname}}",
+                    "Type": 2,
+                    "Texture": "Mods/{{ModId}}/WeaponSprite",
+                    "SpriteIndex": 1,
+                    "MinDamage": 80,
+                    "MaxDamage": 110,
+                    "Knockback": 3.0,
+                    "Speed": -15,
+                    "Precision": -5,
+                    "Defense": 3,
+                    "AreaOfEffect": 30,
+                    "CritChance": 0.02,
+                    "CritMultiplier": 3.0,
+                    "CanBeLostOnDeath": false
+                },
+                "{{ModId}}_SirensSaber": {
+                    "Name": "{{ModId}}_SirensSaber",
+                    "DisplayName": "{{i18n:{{ModId}}_SirensSaber.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_SirensSaber.displayname}}",
+                    "Type": 3,
+                    "Texture": "Mods/{{ModId}}/WeaponSprite",
+                    "SpriteIndex": 2,
+                    "MinDamage": 75,
+                    "MaxDamage": 90,
+                    "Knockback": 1.0,
+                    "Speed": 8,
+                    "Precision": 0,
+                    "Defense": 2,
+                    "AreaOfEffect": 0,
+                    "CritChance": 0.04,
+                    "CritMultiplier": 3.0,
+                    "CanBeLostOnDeath": false
+                }
+            }
+        }
+    ]
+}
