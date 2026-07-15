@@ -2,7 +2,7 @@
     "Changes": [
         {
             "Action": "Include",
-            "FromFile": "code/Sets/Fish/river.json",
+            "FromFile": "code/LocalTokens/Fish/river.json",
             "LocalTokens": {
                 "TargetName": "EastScarp_Village",
                 "AreaId": "ESFreshwater"
@@ -10,7 +10,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "code/Sets/Fish/mountain.json",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
             "LocalTokens": {
                 "TargetName": "EastScarp_Orchard",
                 "AreaId": "OrchardFresh"
@@ -18,7 +18,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "code/Sets/Fish/river.json",
+            "FromFile": "code/LocalTokens/Fish/river.json",
             "LocalTokens": {
                 "TargetName": "EastScarp_LoresCove",
                 "AreaId": "LCFreshwater"
@@ -26,7 +26,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "code/Sets/Fish/river.json",
+            "FromFile": "code/LocalTokens/Fish/river.json",
             "LocalTokens": {
                 "TargetName": "EastScarp_Crossing",
                 "AreaId": "<null>"
@@ -34,7 +34,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "code/Sets/Fish/mountain.json",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
             "LocalTokens": {
                 "TargetName": "EastScarp_DeepMountains",
                 "AreaId": "<null>"
@@ -42,7 +42,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "code/Sets/Fish/pond.json",
+            "FromFile": "code/LocalTokens/Fish/pond.json",
             "LocalTokens": {
                 "TargetName": "EastScarp_DeepMountains",
                 "AreaId": "Pond"
@@ -50,7 +50,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "code/Sets/Fish/pond.json",
+            "FromFile": "code/LocalTokens/Fish/pond.json",
             "LocalTokens": {
                 "TargetName": "EastScarp_MeadowFarm",
                 "AreaId": "<null>"
