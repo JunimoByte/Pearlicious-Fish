@@ -4,18 +4,18 @@
             "Action": "EditData",
             "Target": "Data/AquariumFish",
             "Entries": {
-                "{{ModId}}_CutthroatTrout": "0/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_KoiCarp": "1/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_Musky": "2/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_WidemouthBlindcat": "3/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_RedBetta": "4/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_BlueBetta": "5/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_Snakehead": "6/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_PeacockBass": "7/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_BlackBuffalo": "8/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_Arapaima": "9/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_ButterflyKoi": "10/fish/////Mods\\{{ModId}}\\AquariumSprite",
-                "{{ModId}}_HillstreamLoach": "11/crawl/////Mods\\{{ModId}}\\AquariumSprite"
+                "{{ModId}}_CutthroatTrout": "0/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_KoiCarp": "1/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_Musky": "2/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_WidemouthBlindcat": "3/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_RedBetta": "4/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_BlueBetta": "5/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_Snakehead": "6/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_PeacockBass": "7/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_BlackBuffalo": "8/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_Arapaima": "9/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_ButterflyKoi": "10/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_HillstreamLoach": "11/crawl/////Mods\\{{ModId}}\\Fish\\AquariumSprite"
             }
         }
     ]

@@ -1,0 +1,86 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [
+                "Carpenter",
+                "Items"
+            ],
+            "Entries": {
+                "{{ModId}}_MermaidBed": {
+                    "Id": "{{ModId}}_MermaidBed",
+                    "ItemId": "(F){{ModId}}_MermaidBed",
+                    "TradeItemId": "(O){{ModId}}_PinkEdisonPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 500,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_MermaidBedWhite": {
+                    "Id": "{{ModId}}_MermaidBedWhite",
+                    "ItemId": "(F){{ModId}}_MermaidBedWhite",
+                    "TradeItemId": "(O){{ModId}}_SilverEdisonPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 500,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_MermaidBedPink": {
+                    "Id": "{{ModId}}_MermaidBedPink",
+                    "ItemId": "(F){{ModId}}_MermaidBedPink",
+                    "TradeItemId": "(O){{ModId}}_PeacockTahitianPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 500,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_MermaidChair": {
+                    "Id": "{{ModId}}_MermaidChair",
+                    "ItemId": "(F){{ModId}}_MermaidChair",
+                    "TradeItemId": "(O){{ModId}}_PurpleRoseEdisonPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 100,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_MermaidDresser_Pink": {
+                    "Id": "{{ModId}}_MermaidDresser_Pink",
+                    "ItemId": "(F){{ModId}}_MermaidDresser",
+                    "TradeItemId": "(O){{ModId}}_PinkPearl",
+                    "TradeItemAmount": 2,
+                    "Price": 2000,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_MermaidDresser_Purple": {
+                    "Id": "MermaidDresser_Purple",
+                    "ItemId": "(F){{ModId}}_MermaidDresser",
+                    "TradeItemId": "(O){{ModId}}_PurplePearl",
+                    "TradeItemAmount": 2,
+                    "Price": 2000,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_MermaidSquareTable": {
+                    "Id": "{{ModId}}_MermaidSquareTable",
+                    "ItemId": "(F){{ModId}}_MermaidSquareTable",
+                    "TradeItemId": "(O){{ModId}}_PurplePearl",
+                    "TradeItemAmount": 2,
+                    "Price": 200,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_MermaidRoundTable": {
+                    "Id": "{{ModId}}_MermaidRoundTable",
+                    "ItemId": "(F){{ModId}}_MermaidRoundTable",
+                    "TradeItemId": "(O){{ModId}}_PinkPearl",
+                    "TradeItemAmount": 2,
+                    "Price": 200,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_MermaidAquarium": {
+                    "Id": "{{ModId}}_MermaidAquarium",
+                    "ItemId": "(F){{ModId}}_MermaidAquarium",
+                    "TradeItemId": "(O){{ModId}}_BlackTahitianPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 5000,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                }
+            }
+        }
+    ]
+}

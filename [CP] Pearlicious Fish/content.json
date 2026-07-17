@@ -3,28 +3,38 @@
     "Changes": [
         {
             "Action": "Load",
-            "Target": "Mods/{{ModId}}/FishSprite",
-            "FromFile": "assets/FishSprite.png"
+            "Target": "Mods/{{ModId}}/Fish/FishSprite",
+            "FromFile": "assets/Fish/FishSprite.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/{{ModId}}/AquariumSprite",
-            "FromFile": "assets/AquariumSprite.png"
+            "Target": "Mods/{{ModId}}/Fish/AquariumSprite",
+            "FromFile": "assets/Fish/AquariumSprite.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/{{ModId}}/ObjectSprite",
-            "FromFile": "assets/ObjectSprite.png"
+            "Target": "Mods/{{ModId}}/Fish/MobyDickSprite",
+            "FromFile": "assets/Fish/MobyDickSprite.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/{{ModId}}/WeaponSprite",
-            "FromFile": "assets/WeaponSprite.png"
+            "Target": "Mods/{{ModId}}/Objects/ObjectSprite",
+            "FromFile": "assets/Objects/ObjectSprite.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/{{ModId}}/MobyDickSprite",
-            "FromFile": "assets/MobyDickSprite.png"
+            "Target": "Mods/{{ModId}}/Weapons/WeaponSprite",
+            "FromFile": "assets/Weapons/WeaponSprite.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/{{ModId}}/Furniture/FurnitureSprite",
+            "FromFile": "assets/Furniture/FurnitureSprite.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/{{ModId}}/Furniture/FurnitureFrontSprite",
+            "FromFile": "assets/Furniture/FurnitureFrontSprite.png"
         },
         {
             "Action": "Include",
@@ -33,6 +43,10 @@
         {
             "Action": "Include",
             "FromFile": "code/Objects/objects.json, code/Objects/machines.json, code/Objects/weapons.json, code/Objects/recipes.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Furniture/furniture.json, code/Furniture/shops.json"
         },
         {
             "Action": "Include",
