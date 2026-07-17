@@ -4,14 +4,14 @@
             "Action": "EditData",
             "Target": "Data/Furniture",
             "Entries": {
-                "{{ModId}}_MermaidBed": "{{i18n:{{ModId}}_MermaidBed.displayname}}/bed double/3 4/3 3/1/6000/-1/{{i18n:{{ModId}}_MermaidBed.description}}/48/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidBedPink": "{{i18n:{{ModId}}_MermaidBedPink.displayname}}/bed double/3 4/3 3/1/6000/-1/{{i18n:{{ModId}}_MermaidBedPink.description}}/54/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidBedWhite": "{{i18n:{{ModId}}_MermaidBedWhite.displayname}}/bed double/3 4/3 3/1/6000/-1/{{i18n:{{ModId}}_MermaidBedWhite.description}}/118/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidChair": "{{i18n:{{ModId}}_MermaidChair.displayname}}/chair/1 2/1 1/4/2400/-1/{{i18n:{{ModId}}_MermaidChair.description}}/112/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidDresser": "{{i18n:{{ModId}}_MermaidDresser.displayname}}/dresser/2 2/2 1/4/4000/-1/{{i18n:{{ModId}}_MermaidDresser.description}}/192/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidSquareTable": "{{i18n:{{ModId}}_MermaidSquareTable.displayname}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_MermaidSquareTable.description}}/144/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidRoundTable": "{{i18n:{{ModId}}_MermaidRoundTable.displayname}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_MermaidRoundTable.description}}/146/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidAquarium": "{{i18n:{{ModId}}_MermaidAquarium.displayname}}/fishtank/7 3/7 1/1/5000/-1/{{i18n:{{ModId}}_MermaidAquarium.description}}/256/Mods\\{{ModId}}\\Furniture\\FurnitureSprite"            
+                "{{ModId}}_MermaidBed": "{{i18n:{{ModId}}_MermaidBed.description}}/bed double/3 4/3 3/1/6000/-1/{{i18n:{{ModId}}_MermaidBed.displayname}}/48/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidBedPink": "{{i18n:{{ModId}}_MermaidBedPink.description}}/bed double/3 4/3 3/1/6000/-1/{{i18n:{{ModId}}_MermaidBedPink.displayname}}/54/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidBedWhite": "{{i18n:{{ModId}}_MermaidBedWhite.description}}/bed double/3 4/3 3/1/6000/-1/{{i18n:{{ModId}}_MermaidBedWhite.displayname}}/118/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidChair": "{{i18n:{{ModId}}_MermaidChair.description}}/chair/1 2/1 1/4/2400/-1/{{i18n:{{ModId}}_MermaidChair.displayname}}/112/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidDresser": "{{i18n:{{ModId}}_MermaidDresser.description}}/dresser/2 2/2 1/4/4000/-1/{{i18n:{{ModId}}_MermaidDresser.displayname}}/192/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidSquareTable": "{{i18n:{{ModId}}_MermaidSquareTable.description}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_MermaidSquareTable.displayname}}/144/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidRoundTable": "{{i18n:{{ModId}}_MermaidRoundTable.description}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_MermaidRoundTable.displayname}}/146/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidAquarium": "{{i18n:{{ModId}}_MermaidAquarium.description}}/fishtank/7 3/7 1/1/5000/-1/{{i18n:{{ModId}}_MermaidAquarium.displayname}}/256/Mods\\{{ModId}}\\Furniture\\FurnitureSprite"            
             }
         }
     ]
