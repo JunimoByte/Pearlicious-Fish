@@ -5,9 +5,9 @@
             "Target": "Data/CraftingRecipes",
             "Entries": {
                 "{{ModId}}_SirensSignetRing": "(O)336 5 (O)797 3 (O){{ModId}}_PurpleRoseEdisonPearl 2/Home/(O){{ModId}}_SirensSignetRing 1/false/s Fishing 10",
-                "{{ModId}}_RoyalFang": "(O)336 5 (O)797 1 (O){{ModId}}_BlackTahitianPearl 2/Home/(O){{ModId}}_RoyalFang 1/false/s Combat 8",
-                "{{ModId}}_SeaKingsMaul": "(O)336 5 (O)797 1 (O){{ModId}}_MeloPearl 2/Home/(O){{ModId}}_SeaKingsMaul 1/false/s Combat 9",
-                "{{ModId}}_SirensSaber": "(O)336 5 (O)797 1 (O){{ModId}}_PeacockTahitianPearl 2/Home/(O){{ModId}}_SirensSaber 1/false/s Combat 10"
+                "{{ModId}}_RoyalFang": "(O)336 5 (O)797 1 (O){{ModId}}_BlackTahitianPearl 2/Home/(W){{ModId}}_RoyalFang 1/false/s Combat 8",
+                "{{ModId}}_SeaKingsMaul": "(O)336 5 (O)797 1 (O){{ModId}}_MeloPearl 2/Home/(W){{ModId}}_SeaKingsMaul 1/false/s Combat 9",
+                "{{ModId}}_SirensSaber": "(O)336 5 (O)797 1 (O){{ModId}}_PeacockTahitianPearl 2/Home/(W){{ModId}}_SirensSaber 1/false/s Combat 10"
             }
         }
     ]
