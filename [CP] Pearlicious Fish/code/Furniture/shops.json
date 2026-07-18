@@ -43,7 +43,7 @@
                 "{{ModId}}_SilverMermaidChair": {
                     "Id": "{{ModId}}_SilverMermaidChair",
                     "ItemId": "(F){{ModId}}_SilverMermaidChair",
-                    "TradeItemId": "(O){{ModId}}_PurpleRoseEdisonPearl",
+                    "TradeItemId": "(O){{ModId}}_PurpleEdisonPearl",
                     "TradeItemAmount": 1,
                     "Price": 100,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
