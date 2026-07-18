@@ -10,7 +10,7 @@
                         "Y": 32
                     },
                     "WiggleSegmentLength": 8,
-                    "AquariumTextureOverride": "Mods\\{{ModId}}\\MobyDickSprite",
+                    "AquariumTextureOverride": "Mods\\{{ModId}}\\Fish\\MobyDickSprite",
                     "AquariumTextureRect": {
                         "X": 0,
                         "Y": 0,

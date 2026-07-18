@@ -414,7 +414,7 @@
                     "RequiredTags": [
                         "id_(O){{ModId}}_Arapaima"
                     ],
-                    "SpawnTime": 4,
+                    "SpawnTime": 6,
                     "ProducedItems": [
                         {
                             "RequiredPopulation": 0,
@@ -548,6 +548,103 @@
                         ],
                         "6": [
                             "(O)724 2" // Maple Syrup
+                        ]
+                    }
+                },
+                "{{ModId}}_GoliathTiger": {
+                    "Id": "id_(O){{ModId}}_GoliathTiger",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_GoliathTiger"
+                    ],
+                    "SpawnTime": 6,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.2,
+                            "ItemID": "(O)241", // Survival Burger
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.08,
+                            "ItemID": "(O)70", // Jade
+                            "MinQuantity": 1,
+                            "MaxQuantity": 3
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.05,
+                            "ItemID": "(O)166", // Treasure Chest
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.03,
+                            "ItemID": "(O)74", // Prismatic Shard
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)242 1" // Dish O' The Sea
+                        ],
+                        "6": [
+                            "(O)70 3" // Jade
+                        ]
+                    }
+                },
+                "{{ModId}}_CaveAngelfish": {
+                    "Id": "id_(O){{ModId}}_CaveAngelfish",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_CaveAngelfish"
+                    ],
+                    "SpawnTime": 5,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.25,
+                            "ItemID": "(O)157", // White Algae
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.12,
+                            "ItemID": "(O)234", // Blueberry Tart
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.03,
+                            "ItemID": "(O)337", // Iridium Bar
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)157 5" // White Algae
+                        ],
+                        "6": [
+                            "(O)344 1" // Jelly
                         ]
                     }
                 }

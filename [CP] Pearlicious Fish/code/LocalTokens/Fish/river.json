@@ -32,6 +32,11 @@
                     "Id": "{{ModId}}_Arapaima",
                     "ItemId": "(O){{ModId}}_Arapaima",
                     "Condition": "LOCATION_Season Here Fall Winter"
+                },
+                "{{ModId}}_GoliathTiger": {
+                    "Id": "{{ModId}}_GoliathTiger",
+                    "ItemId": "(O){{ModId}}_GoliathTiger",
+                    "Condition": "LOCATION_Season Here Summer Winter"
                 }
             }
         },
@@ -59,6 +64,9 @@
                     "FishAreaId": "{{AreaId}}"
                 },
                 "{{ModId}}_Arapaima": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_GoliathTiger": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }

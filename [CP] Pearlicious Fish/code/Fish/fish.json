@@ -283,6 +283,51 @@
                         "weather_rainy",
                         "color_green"
                     ]
+                },
+                "{{ModId}}_GoliathTiger": {
+                    "Name": "{{ModId}}_GoliathTiger",
+                    "DisplayName": "{{i18n:{{ModId}}_GoliathTiger.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_GoliathTiger.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 550,
+                    "Texture": "Mods/{{ModId}}/Fish/FishSprite",
+                    "SpriteIndex": 12,
+                    "Edibility": 10,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_river",
+                        "fish_has_roe",
+                        "fish_goliathtiger",
+                        "season_summer",
+                        "season_winter",
+                        "color_brown"
+                    ]
+                },
+                "{{ModId}}_CaveAngelfish": {
+                    "Name": "{{ModId}}_CaveAngelfish",
+                    "DisplayName": "{{i18n:{{ModId}}_CaveAngelfish.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_CaveAngelfish.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 200,
+                    "Texture": "Mods/{{ModId}}/Fish/FishSprite",
+                    "SpriteIndex": 13,
+                    "Edibility": 15,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_cave",
+                        "fish_has_roe",
+                        "fish_caveangelfish",
+                        "season_winter",
+                        "color_pink"
+                    ]
                 }
             }
         }

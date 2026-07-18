@@ -15,7 +15,9 @@
                 "{{ModId}}_BlackBuffalo": "{{ModId}}_BlackBuffalo/60/sinker/17/48/800 1800/spring/both/690 .3 685/2/.2/.1/4/false",
                 "{{ModId}}_Arapaima": "{{ModId}}_Arapaima/93/floater/78/132/600 900 1700 2600/fall winter/rainy/690 .3 685/3/.06/.1/7/false",
                 "{{ModId}}_ButterflyKoi": "{{ModId}}_ButterflyKoi/67/mixed/6/14/600 1300/summer/both/690 .3 685/2/.12/.1/4/false",
-                "{{ModId}}_HillstreamLoach": "{{ModId}}_HillstreamLoach/62/floater/3/8/600 2200/summer fall/rainy/690 .3 685/3/.15/.1/3/false"
+                "{{ModId}}_HillstreamLoach": "{{ModId}}_HillstreamLoach/62/floater/3/8/600 2200/summer fall/rainy/690 .3 685/3/.15/.1/3/false",
+                "{{ModId}}_GoliathTiger": "{{ModId}}_GoliathTiger/88/mixed/60/81/900 1600/summer winter/both/690 .3 685/3/.07/.1/7/false",
+                "{{ModId}}_CaveAngelfish": "{{ModId}}_CaveAngelfish/75/floater/2/5/600 1400/winter/both/690 .3 685/5/.1/.1/6/false"
             }
         }
     ]

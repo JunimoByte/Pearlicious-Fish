@@ -9,6 +9,7 @@
         },
         {
             "Action": "Include",
+            "LogName": "YAYYYY WE ADDDED SUPPORT WOOHOOOOOOOOOOOOOOOOO",
             "FromFile": "code/Compat/Mods/MobyDick/compat.json",
             "When": {
                 "HasMod": "mushymato.MobyDick"
