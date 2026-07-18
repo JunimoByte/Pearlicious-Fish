@@ -87,6 +87,30 @@
                     "TradeItemAmount": 1,
                     "Price": 5000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_HopefulNightPainting": {
+                    "Id": "{{ModId}}_HopefulNightPainting",
+                    "ItemId": "(F){{ModId}}_HopefulNightPainting",
+                    "TradeItemId": "(O){{ModId}}_SmallPinkPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 500,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 5"
+                },
+                "{{ModId}}_MagicalTouchPainting": {
+                    "Id": "{{ModId}}_MagicalTouchPainting",
+                    "ItemId": "(F){{ModId}}_MagicalTouchPainting",
+                    "TradeItemId": "(O){{ModId}}_SmallRoseGoldPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 1000,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 7"
+                },
+                "{{ModId}}_ArapaimaPlaque": {
+                    "Id": "{{ModId}}_ArapaimaPlaque",
+                    "ItemId": "(F){{ModId}}_ArapaimaPlaque",
+                    "TradeItemId": "(O){{ModId}}_Arapaima",
+                    "TradeItemAmount": 1,
+                    "Price": 2500,
+                    "Condition": "PLAYER_HAS_CAUGHT_FISH Current (O){{ModId}}_Arapaima, PLAYER_BASE_FISHING_LEVEL Current 10"
                 }
             }
         }
