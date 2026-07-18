@@ -40,6 +40,14 @@
                     "Price": 100,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
+                "{{ModId}}_SilverMermaidChair": {
+                    "Id": "{{ModId}}_SilverMermaidChair",
+                    "ItemId": "(F){{ModId}}_SilverMermaidChair",
+                    "TradeItemId": "(O){{ModId}}_PurpleRoseEdisonPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 100,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
                 "{{ModId}}_MermaidDresser_Pink": {
                     "Id": "{{ModId}}_MermaidDresser_Pink",
                     "ItemId": "(F){{ModId}}_MermaidDresser",

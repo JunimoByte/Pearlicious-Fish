@@ -11,7 +11,11 @@
                 "{{ModId}}_MermaidDresser": "{{i18n:{{ModId}}_MermaidDresser.description}}/dresser/2 2/2 1/4/4000/-1/{{i18n:{{ModId}}_MermaidDresser.displayname}}/192/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_MermaidSquareTable": "{{i18n:{{ModId}}_MermaidSquareTable.description}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_MermaidSquareTable.displayname}}/144/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_MermaidRoundTable": "{{i18n:{{ModId}}_MermaidRoundTable.description}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_MermaidRoundTable.displayname}}/146/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidAquarium": "{{i18n:{{ModId}}_MermaidAquarium.description}}/fishtank/7 3/7 1/1/5000/-1/{{i18n:{{ModId}}_MermaidAquarium.displayname}}/256/Mods\\{{ModId}}\\Furniture\\FurnitureSprite"            
+                "{{ModId}}_MermaidAquarium": "{{i18n:{{ModId}}_MermaidAquarium.description}}/fishtank/7 3/7 1/1/5000/-1/{{i18n:{{ModId}}_MermaidAquarium.displayname}}/256/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_SilverMermaidChair": "{{i18n:{{ModId}}_SilverMermaidChair.description}}/chair/1 2/1 1/4/2400/-1/{{i18n:{{ModId}}_SilverMermaidChair.displayname}}/115/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_HopefulPainting": "{{i18n:{{ModId}}_HopefulPainting.description}}/painting/2 2/2 1/4/4000/-1/{{i18n:{{ModId}}_HopefulPainting.displayname}}/198/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MagicalTouchPainting": "{{i18n:{{ModId}}_MagicalTouchPainting.description}}/painting/3 2/3 1/4/4000/-1/{{i18n:{{ModId}}_MagicalTouchPainting.displayname}}/200/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_ArapaimaPlaque": "{{i18n:{{ModId}}_ArapaimaPlaque.description}}/painting/3 2/3 1/4/4000/-1/{{i18n:{{ModId}}_ArapaimaPlaque.displayname}}/203/Mods\\{{ModId}}\\Furniture\\FurnitureSprite"      
             }
         }
     ]

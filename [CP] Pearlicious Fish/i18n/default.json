@@ -72,6 +72,8 @@
     "LucyAndCalart.PF_MermaidBedWhite.description": "Mermaid Silver Bed",
     "LucyAndCalart.PF_MermaidChair.displayname": "Mermaid Chair",
     "LucyAndCalart.PF_MermaidChair.description": "Mermaid Chair",
+    "LucyAndCalart.PF_SilverMermaidChair.displayname": "Silver Mermaid Chair",
+    "LucyAndCalart.PF_SilverMermaidChair.description": "Silver Mermaid Chair",
     "LucyAndCalart.PF_MermaidDresser.displayname": "Mermaid Dresser",
     "LucyAndCalart.PF_MermaidDresser.description": "Mermaid Dresser",
     "LucyAndCalart.PF_MermaidSquareTable.displayname": "Mermaid Square Table",
@@ -79,5 +81,11 @@
     "LucyAndCalart.PF_MermaidRoundTable.displayname": "Mermaid Round Table",
     "LucyAndCalart.PF_MermaidRoundTable.description": "Mermaid Round Table UWU",
     "LucyAndCalart.PF_MermaidAquarium.displayname": "Mermaid Aquarium",
-    "LucyAndCalart.PF_MermaidAquarium.description": "A massive fish tank with a pearl mounted on top."
+    "LucyAndCalart.PF_MermaidAquarium.description": "A massive fish tank with a pearl mounted on top.",
+    "LucyAndCalart.PF_HopefulNightPainting.displayname": "Hopeful Night Painting.",
+    "LucyAndCalart.PF_HopefulNightPainting.description": "Hopeful Night Painting.",
+    "LucyAndCalart.PF_MagicalTouchPainting.displayname": "Magical Touch Painting.",
+    "LucyAndCalart.PF_MagicalTouchPainting.description": "Magical Touch Painting.",
+    "LucyAndCalart.PF_ArapaimaPlaque.displayname": "Arapaima Plaque.",
+    "LucyAndCalart.PF_ArapaimaPlaque.description": "Arapaima Plaque."
 }
