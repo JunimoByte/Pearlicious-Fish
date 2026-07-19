@@ -28,6 +28,26 @@
                     ],
                     "MinutesUntilReady": 120
                 },
+                "{{ModId}}_RecycleCockle": {
+                    "Id": "{{ModId}}_RecycleCockle",
+                    "Triggers": [
+                        {
+                            "Id": "ItemPlacedInMachine",
+                            "Trigger": "ItemPlacedInMachine",
+                            "RequiredItemId": "(O)718",
+                            "RequiredCount": 1
+                        }
+                    ],
+                    "OutputItem": [
+                        {
+                            "Id": "{{ModId}}_PriedCockleOutput",
+                            "ItemId": "{{ModId}}_PriedClam",
+                            "MinStack": 1,
+                            "MaxStack": 1
+                        }
+                    ],
+                    "MinutesUntilReady": 120
+                },
                 "{{ModId}}_RecycleOyster": {
                     "Id": "{{ModId}}_RecycleOyster",
                     "Triggers": [
