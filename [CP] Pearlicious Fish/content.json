@@ -37,6 +37,11 @@
             "FromFile": "assets/Furniture/FurnitureSpriteFront.png"
         },
         {
+            "Action": "Load",
+            "Target": "Mods/{{ModId}}/Furniture/MermaidPathSprite",
+            "FromFile": "assets/Furniture/MermaidPathSprite.png"
+        },
+        {
             "Action": "Include",
             "FromFile": "code/Fish/fish.json, code/Fish/aquarium.json, code/Fish/behavior.json, code/Fish/locations.json, code/Fish/pond.json"
         },
@@ -46,7 +51,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "code/Furniture/furniture.json, code/Furniture/shops.json"
+            "FromFile": "code/Furniture/furniture.json, code/Furniture/floors.json, code/Furniture/shops.json"
         },
         {
             "Action": "Include",

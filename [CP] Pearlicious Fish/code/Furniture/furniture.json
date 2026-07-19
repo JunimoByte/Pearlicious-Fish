@@ -15,7 +15,7 @@
                 "{{ModId}}_SilverMermaidChair": "{{i18n:{{ModId}}_SilverMermaidChair.description}}/chair/1 2/1 1/4/2400/-1/{{i18n:{{ModId}}_SilverMermaidChair.displayname}}/115/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_HopefulNightPainting": "{{i18n:{{ModId}}_HopefulNightPainting.description}}/painting/2 2/2 2/4/4000/-1/{{i18n:{{ModId}}_HopefulNightPainting.displayname}}/198/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_MagicalTouchPainting": "{{i18n:{{ModId}}_MagicalTouchPainting.description}}/painting/3 2/3 2/4/4000/-1/{{i18n:{{ModId}}_MagicalTouchPainting.displayname}}/200/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_ArapaimaPlaque": "{{i18n:{{ModId}}_ArapaimaPlaque.description}}/painting/3 2/3 2/4/4000/-1/{{i18n:{{ModId}}_ArapaimaPlaque.displayname}}/203/Mods\\{{ModId}}\\Furniture\\FurnitureSprite"      
+                "{{ModId}}_ArapaimaPlaque": "{{i18n:{{ModId}}_ArapaimaPlaque.description}}/painting/3 2/3 2/4/4000/-1/{{i18n:{{ModId}}_ArapaimaPlaque.displayname}}/203/Mods\\{{ModId}}\\Furniture\\FurnitureSprite"
             }
         }
     ]
