@@ -17,7 +17,8 @@
                 "{{ModId}}_ButterflyKoi": "10/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
                 "{{ModId}}_HillstreamLoach": "11/crawl/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
                 "{{ModId}}_GoliathTiger": "12/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
-                "{{ModId}}_CaveAngelfish": "13/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite"
+                "{{ModId}}_CaveAngelfish": "13/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
+                "{{ModId}}_Paddlefish": "14/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite"
             }
         }
     ]

@@ -31,10 +31,12 @@
                         "X": 0,
                         "Y": 0
                     },
-                    "ConnectType": "Path",
+                    "ConnectType": "Default",
                     "PlacementSound": "stoneStep",
                     "FootstepSound": "stoneStep",
-                    "FarmSpeedBuff": 0.1
+                    "FarmSpeedBuff": 0.1,
+                    "ShadowType": "Square",
+                    "CornerSize": 4
                 }
             }
         }

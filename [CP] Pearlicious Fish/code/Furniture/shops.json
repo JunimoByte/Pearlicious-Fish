@@ -64,6 +64,14 @@
                     "Price": 2000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
+                "{{ModId}}_SilverMermaidDresser": {
+                    "Id": "_SilverMermaidDresser",
+                    "ItemId": "(F){{ModId}}_SilverMermaidDresser",
+                    "TradeItemId": "(O){{ModId}}_SilverEdisonPearl",
+                    "TradeItemAmount": 2,
+                    "Price": 1500,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
                 "{{ModId}}_MermaidSquareTable": {
                     "Id": "{{ModId}}_MermaidSquareTable",
                     "ItemId": "(F){{ModId}}_MermaidSquareTable",
@@ -80,12 +88,28 @@
                     "Price": 200,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
+                "{{ModId}}_SilverRoundTable": {
+                    "Id": "{{ModId}}_SilverRoundTable",
+                    "ItemId": "(F){{ModId}}_SilverRoundTable",
+                    "TradeItemId": "(O){{ModId}}_SilverEdisonPearl",
+                    "TradeItemAmount": 2,
+                    "Price": 100,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
                 "{{ModId}}_MermaidAquarium": {
                     "Id": "{{ModId}}_MermaidAquarium",
                     "ItemId": "(F){{ModId}}_MermaidAquarium",
                     "TradeItemId": "(O){{ModId}}_BlackTahitianPearl",
                     "TradeItemAmount": 1,
                     "Price": 5000,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_PearlAquarium": {
+                    "Id": "{{ModId}}_PearlAquarium",
+                    "ItemId": "(F){{ModId}}_PearlAquarium",
+                    "TradeItemId": "(O){{ModId}}_MeloPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 4000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
                 "{{ModId}}_HopefulNightPainting": {

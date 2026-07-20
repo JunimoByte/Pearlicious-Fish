@@ -37,6 +37,11 @@
                     "Id": "{{ModId}}_GoliathTiger",
                     "ItemId": "(O){{ModId}}_GoliathTiger",
                     "Condition": "LOCATION_Season Here Summer Winter"
+                },
+                "{{ModId}}_Paddlefish": {
+                    "Id": "{{ModId}}_Paddlefish",
+                    "ItemId": "(O){{ModId}}_Paddlefish",
+                    "Condition": "LOCATION_Season Here Spring"
                 }
             }
         },
@@ -67,6 +72,9 @@
                     "FishAreaId": "{{AreaId}}"
                 },
                 "{{ModId}}_GoliathTiger": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_Paddlefish": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }

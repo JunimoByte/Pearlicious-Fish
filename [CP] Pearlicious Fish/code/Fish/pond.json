@@ -647,6 +647,58 @@
                             "(O)344 1" // Jelly
                         ]
                     }
+                },
+                "{{ModId}}_Paddlefish": {
+                    "Id": "id_(O){{ModId}}_Paddlefish",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_Paddlefish"
+                    ],
+                    "SpawnTime": 6,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.2,
+                            "ItemID": "(O)211", // Pancakes
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.08,
+                            "ItemID": "(O)60", // Emerald
+                            "MinQuantity": 1,
+                            "MaxQuantity": 3
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.05,
+                            "ItemID": "(O)166", // Treasure Chest
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.03,
+                            "ItemID": "(O)74", // Prismatic Shard
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)211 1" // Pancakes
+                        ],
+                        "6": [
+                            "(O)60 3" // Jade
+                        ]
+                    }
                 }
             }
         }

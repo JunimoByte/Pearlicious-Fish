@@ -328,6 +328,28 @@
                         "season_winter",
                         "color_pink"
                     ]
+                },
+                "{{ModId}}_Paddlefish": {
+                    "Name": "{{ModId}}_Paddlefish",
+                    "DisplayName": "{{i18n:{{ModId}}_Paddlefish.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_Paddlefish.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 500,
+                    "Texture": "Mods/{{ModId}}/Fish/FishSprite",
+                    "SpriteIndex": 14,
+                    "Edibility": 20,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_river",
+                        "fish_has_roe",
+                        "fish_paddlefish",
+                        "season_spring",
+                        "color_brown"
+                    ]
                 }
             }
         }
