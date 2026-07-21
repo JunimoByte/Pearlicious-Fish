@@ -14,7 +14,7 @@
                 "{{ModId}}_SilverMermaidDresser": "{{i18n:{{ModId}}_SilverMermaidDresser.description}}/dresser/2 2/2 1/4/4000/-1/{{i18n:{{ModId}}_SilverMermaidDresser.displayname}}/10/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_MermaidSquareTable": "{{i18n:{{ModId}}_MermaidSquareTable.description}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_MermaidSquareTable.displayname}}/198/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_MermaidRoundTable": "{{i18n:{{ModId}}_MermaidRoundTable.description}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_MermaidRoundTable.displayname}}/200/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidLargeTable": "{{i18n:{{ModId}}_MermaidLargeTable.description}}/table/5 3/5 2/1/4000/-1/{{i18n:{{ModId}}_MermaidLargeTable.displayname}}/256/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidLargeTable": "{{i18n:{{ModId}}_MermaidLargeTable.description}}/table/5 3/5 2/2/4000/-1/{{i18n:{{ModId}}_MermaidLargeTable.displayname}}/256/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_SilverRoundTable": "{{i18n:{{ModId}}_SilverRoundTable.description}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_SilverRoundTable.displayname}}/202/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_MermaidNightTable": "{{i18n:{{ModId}}_MermaidNightTable.description}}/table/1 2/1 1/1/4000/-1/{{i18n:{{ModId}}_MermaidNightTable.displayname}}/210/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_SilverNightTable": "{{i18n:{{ModId}}_SilverNightTable.description}}/table/1 2/1 1/1/4000/-1/{{i18n:{{ModId}}_SilverNightTable.displayname}}/212/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
