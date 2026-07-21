@@ -9,7 +9,6 @@
         },
         {
             "Action": "Include",
-            "LogName": "YAYYYY WE ADDDED SUPPORT WOOHOOOOOOOOOOOOOOOOO",
             "FromFile": "code/Compat/Mods/MobyDick/compat.json",
             "When": {
                 "HasMod": "mushymato.MobyDick"
@@ -41,6 +40,20 @@
             "FromFile": "code/Compat/Mods/VisitMountVapius/compat.json",
             "When": {
                 "HasMod": "lumisteria.visitmountvapius.code"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/Mods/Lunna/compat.json",
+            "When": {
+                "HasMod": "Rafseazz.LunnaCP"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/Mods/SunberryVillage/compat.json",
+            "When": {
+                "HasMod": "skellady.SBVCP"
             }
         }
     ]

@@ -1,0 +1,28 @@
+{
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/pond.json",
+            "LocalTokens": {
+                "TargetName": "Custom_SBV_SunberryForest",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Custom_SBV_SunberryMountain",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/river.json",
+            "LocalTokens": {
+                "TargetName": "Custom_SBV_SunberryVillage",
+                "AreaId": "<null>"
+            }
+        }
+    ]
+} 
