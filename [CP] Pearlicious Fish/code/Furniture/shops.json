@@ -92,8 +92,32 @@
                     "Id": "{{ModId}}_SilverRoundTable",
                     "ItemId": "(F){{ModId}}_SilverRoundTable",
                     "TradeItemId": "(O){{ModId}}_SilverEdisonPearl",
-                    "TradeItemAmount": 2,
+                    "TradeItemAmount": 1,
                     "Price": 100,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_MermaidLargeTable": {
+                    "Id": "{{ModId}}_MermaidLargeTable",
+                    "ItemId": "(F){{ModId}}_MermaidLargeTable",
+                    "TradeItemId": "(O){{ModId}}_RoseGoldPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 2000,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_MermaidNightTable": {
+                    "Id": "{{ModId}}_MermaidNightTable",
+                    "ItemId": "(F){{ModId}}_MermaidNightTable",
+                    "TradeItemId": "(O){{ModId}}_SmallRoseGoldPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 150,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
+                },
+                "{{ModId}}_SilverNightTable": {
+                    "Id": "{{ModId}}_SilverNightTable",
+                    "ItemId": "(F){{ModId}}_SilverNightTable",
+                    "TradeItemId": "(O){{ModId}}_SilverEdisonPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 150,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
                 "{{ModId}}_MermaidAquarium": {

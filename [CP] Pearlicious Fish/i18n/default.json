@@ -104,6 +104,12 @@
     "LucyAndCalart.PF_SilverMermaidDresser.description": "Silver Mermaid Dresser",
     "LucyAndCalart.PF_SilverRoundTable.displayname": "Silver Round Table",
     "LucyAndCalart.PF_SilverRoundTable.description": "Silver Round Table",
+    "LucyAndCalart.PF_MermaidNightTable.displayname": "Mermaid Night Table",
+    "LucyAndCalart.PF_MermaidNightTable.description": "Mermaid Night Table",
+    "LucyAndCalart.PF_SilverNightTable.displayname": "Mermaid Night Table",
+    "LucyAndCalart.PF_SilverNightTable.description": "Silver Night Table",
+    "LucyAndCalart.PF_MermaidLargeTable.displayname": "Mermaid Large Table",
+    "LucyAndCalart.PF_MermaidLargeTable.description": "Mermaid Large Table",
     "LucyAndCalart.PF_PearlAquarium.displayname": "Pearl Aquarium",
     "LucyAndCalart.PF_PearlAquarium.description": "Pearl Aquarium"
 }
