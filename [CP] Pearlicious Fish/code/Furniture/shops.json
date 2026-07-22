@@ -159,6 +159,14 @@
                     "TradeItemAmount": 1,
                     "Price": 2500,
                     "Condition": "PLAYER_HAS_CAUGHT_FISH Current (O){{ModId}}_Arapaima, PLAYER_BASE_FISHING_LEVEL Current 10"
+                },
+                "{{ModId}}_MermaidLight": {
+                    "Id": "{{ModId}}_MermaidLight",
+                    "ItemId": "(F){{ModId}}_MermaidLight",
+                    "TradeItemId": "(O){{ModId}}_SmallPinkPearl",
+                    "TradeItemAmount": 1,
+                    "Price": 1500,
+                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 6"
                 }
             }
         }
