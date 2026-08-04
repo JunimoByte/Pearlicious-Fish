@@ -350,6 +350,31 @@
                         "season_spring",
                         "color_brown"
                     ]
+                },
+                "{{ModId}}_DryboneDace": {
+                    "Name": "{{ModId}}_DryboneDace",
+                    "DisplayName": "{{i18n:{{ModId}}_DryboneDace.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_DryboneDace.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 300,
+                    "Texture": "Mods/{{ModId}}/Fish/FishSprite",
+                    "SpriteIndex": 15,
+                    "Edibility": 15,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_cave",
+                        "fish_has_roe",
+                        "fish_drybonedace",
+                        "season_spring",
+                        "season_summer",
+                        "season_fall",
+                        "season_winter",
+                        "color_white"
+                    ]
                 }
             }
         }

@@ -14,17 +14,25 @@
                 "{{ModId}}_SilverMermaidDresser": "{{i18n:{{ModId}}_SilverMermaidDresser.description}}/dresser/2 2/2 1/4/4000/-1/{{i18n:{{ModId}}_SilverMermaidDresser.displayname}}/10/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_MermaidSquareTable": "{{i18n:{{ModId}}_MermaidSquareTable.description}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_MermaidSquareTable.displayname}}/198/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_MermaidRoundTable": "{{i18n:{{ModId}}_MermaidRoundTable.description}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_MermaidRoundTable.displayname}}/200/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidLargeTable": "{{i18n:{{ModId}}_MermaidLargeTable.description}}/table/5 3/5 2/2/4000/-1/{{i18n:{{ModId}}_MermaidLargeTable.displayname}}/256/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_SilverRoundTable": "{{i18n:{{ModId}}_SilverRoundTable.description}}/table/2 2/2 2/1/4000/-1/{{i18n:{{ModId}}_SilverRoundTable.displayname}}/202/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidNightTable": "{{i18n:{{ModId}}_MermaidNightTable.description}}/table/1 2/1 1/1/4000/-1/{{i18n:{{ModId}}_MermaidNightTable.displayname}}/210/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_SilverNightTable": "{{i18n:{{ModId}}_SilverNightTable.description}}/table/1 2/1 1/1/4000/-1/{{i18n:{{ModId}}_SilverNightTable.displayname}}/212/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_MermaidAquarium": "{{i18n:{{ModId}}_MermaidAquarium.description}}/fishtank/7 3/7 1/1/5000/-1/{{i18n:{{ModId}}_MermaidAquarium.displayname}}/352/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_PearlAquarium": "{{i18n:{{ModId}}_PearlAquarium.description}}/fishtank/4 3/4 1/1/4000/-1/{{i18n:{{ModId}}_PearlAquarium.displayname}}/366/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_SilverMermaidChair": "{{i18n:{{ModId}}_SilverMermaidChair.description}}/chair/1 2/1 1/4/2400/-1/{{i18n:{{ModId}}_SilverMermaidChair.displayname}}/157/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_CrownMermaidChair": "{{i18n:{{ModId}}_CrownMermaidChair.description}}/chair/1 3/1 1/4/2400/-1/{{i18n:{{ModId}}_CrownMermaidChair.displayname}}/144/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_HopefulNightPainting": "{{i18n:{{ModId}}_HopefulNightPainting.description}}/painting/2 2/2 2/4/4000/-1/{{i18n:{{ModId}}_HopefulNightPainting.displayname}}/270/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_MagicalTouchPainting": "{{i18n:{{ModId}}_MagicalTouchPainting.description}}/painting/3 2/3 2/4/4000/-1/{{i18n:{{ModId}}_MagicalTouchPainting.displayname}}/272/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_RoundBeachPainting": "{{i18n:{{ModId}}_RoundBeachPainting.description}}/painting/2 2/3 2/4/4000/-1/{{i18n:{{ModId}}_RoundBeachPainting.displayname}}/314/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_PearliciousPainting": "{{i18n:{{ModId}}_PearliciousPainting.description}}/painting/3 2/3 2/4/4000/-1/{{i18n:{{ModId}}_PearliciousPainting.displayname}}/316/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
                 "{{ModId}}_ArapaimaPlaque": "{{i18n:{{ModId}}_ArapaimaPlaque.description}}/painting/3 2/3 2/4/4000/-1/{{i18n:{{ModId}}_ArapaimaPlaque.displayname}}/275/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
-                "{{ModId}}_MermaidLight": "{{i18n:{{ModId}}_MermaidLight.description}}/lamp/1 1/1 1/1/4000/-1/{{i18n:{{ModId}}_MermaidLight.displayname}}/236/Mods\\{{ModId}}\\Furniture\\FurnitureSprite"
+                "{{ModId}}_MermaidLargeTable": "{{i18n:{{ModId}}_MermaidLargeTable.description}}/table/5 3/5 2/1/4000/-1/{{i18n:{{ModId}}_MermaidLargeTable.displayname}}/256/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidNightTable": "{{i18n:{{ModId}}_MermaidNightTable.description}}/table/1 2/1 1/1/4000/-1/{{i18n:{{ModId}}_MermaidNightTable.displayname}}/210/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_SilverNightTable": "{{i18n:{{ModId}}_SilverNightTable.description}}/table/1 2/1 1/1/4000/-1/{{i18n:{{ModId}}_SilverNightTable.displayname}}/212/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidLight": "{{i18n:{{ModId}}_MermaidLight.description}}/lamp/1 1/1 1/1/4000/-1/{{i18n:{{ModId}}_MermaidLight.displayname}}/236/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_TahitianPeacockLight": "{{i18n:{{ModId}}_TahitianPeacockLight.description}}/lamp/1 1/1 1/1/4000/-1/{{i18n:{{ModId}}_TahitianPeacockLight.displayname}}/238/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidSilverTorch": "{{i18n:{{ModId}}_MermaidSilverTorch.description}}/torch/1 2/1 1/1/4000/-1/{{i18n:{{ModId}}_MermaidSilverTorch.displayname}}/169/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidOrbTorch": "{{i18n:{{ModId}}_MermaidOrbTorch.description}}/torch/1 2/1 1/1/4000/-1/{{i18n:{{ModId}}_MermaidOrbTorch.displayname}}/170/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidBanner1": "{{i18n:{{ModId}}_MermaidBanner1.description}}/painting/1 3/1 3/1/800/-1/{{i18n:{{ModId}}_MermaidBanner1.displayname}}/15/Mods\\{{ModId}}\\Furniture\\FurnitureSprite",
+                "{{ModId}}_MermaidBanner2": "{{i18n:{{ModId}}_MermaidBanner2.description}}/painting/1 3/1 3/1/800/-1/{{i18n:{{ModId}}_MermaidBanner2.displayname}}/16/Mods\\{{ModId}}\\Furniture\\FurnitureSprite"
             }
         }
     ]

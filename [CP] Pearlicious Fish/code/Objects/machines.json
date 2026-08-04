@@ -75,6 +75,10 @@
                     "ToPosition": "Top"
                 },
                 {
+                    "ID": "{{ModId}}_RecycleCockle",
+                    "ToPosition": "Top"
+                },
+                {
                     "ID": "{{ModId}}_RecycleOyster",
                     "ToPosition": "Top"
                 }

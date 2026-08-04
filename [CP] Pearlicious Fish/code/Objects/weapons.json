@@ -7,7 +7,7 @@
                 "{{ModId}}_RoyalFang": {
                     "Name": "{{ModId}}_RoyalFang",
                     "DisplayName": "{{i18n:{{ModId}}_RoyalFang.displayname}}",
-                    "Description": "{{i18n:{{ModId}}_RoyalFang.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_RoyalFang.description}}",
                     "Type": 1,
                     "Texture": "Mods/{{ModId}}/Weapons/WeaponSprite",
                     "SpriteIndex": 0,
@@ -25,7 +25,7 @@
                 "{{ModId}}_SeaKingsMaul": {
                     "Name": "{{ModId}}_SeaKingsMaul",
                     "DisplayName": "{{i18n:{{ModId}}_SeaKingsMaul.displayname}}",
-                    "Description": "{{i18n:{{ModId}}_SeaKingsMaul.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_SeaKingsMaul.description}}",
                     "Type": 2,
                     "Texture": "Mods/{{ModId}}/Weapons/WeaponSprite",
                     "SpriteIndex": 1,
@@ -43,7 +43,7 @@
                 "{{ModId}}_SirensSaber": {
                     "Name": "{{ModId}}_SirensSaber",
                     "DisplayName": "{{i18n:{{ModId}}_SirensSaber.displayname}}",
-                    "Description": "{{i18n:{{ModId}}_SirensSaber.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_SirensSaber.description}}",
                     "Type": 3,
                     "Texture": "Mods/{{ModId}}/Weapons/WeaponSprite",
                     "SpriteIndex": 2,

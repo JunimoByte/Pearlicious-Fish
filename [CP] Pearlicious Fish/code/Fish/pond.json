@@ -696,7 +696,52 @@
                             "(O)211 1" // Pancakes
                         ],
                         "6": [
-                            "(O)60 3" // Jade
+                            "(O)60 3" // Emerald
+                        ]
+                    }
+                },
+                "{{ModId}}_DryboneDace": {
+                    "Id": "id_(O){{ModId}}_DryboneDace",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_DryboneDace"
+                    ],
+                    "SpawnTime": 6,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.28,
+                            "ItemID": "(O)157", // White Algae
+                            "MinQuantity": 1,
+                            "MaxQuantity": 3
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.1,
+                            "ItemID": "(O)72", // Diamond
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.02,
+                            "ItemID": "(O)337", // Iridium Bar
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)157 5" // White Algae
+                        ],
+                        "6": [
+                            "(O)72 1" // Diamond
                         ]
                     }
                 }

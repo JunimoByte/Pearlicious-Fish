@@ -13,12 +13,17 @@
                     "ItemId": "(O){{ModId}}_WidemouthBlindcat",
                     "Condition": "LOCATION_NAME Here UndergroundMine60, LOCATION_Season Here Spring Summer Fall Winter",
                     "CatchLimit": 1,
-					"IsBossFish": true
+                    "IsBossFish": true
                 },
                 "{{ModId}}_CaveAngelfish": {
                     "Id": "{{ModId}}_CaveAngelfish",
                     "ItemId": "(O){{ModId}}_CaveAngelfish",
                     "Condition": "LOCATION_NAME Here UndergroundMine60, LOCATION_Season Here Winter"
+                },
+                "{{ModId}}_DryboneDace": {
+                    "Id": "{{ModId}}_DryboneDace",
+                    "ItemId": "(O){{ModId}}_DryboneDace",
+                    "Condition": "LOCATION_NAME Here UndergroundMine60"
                 }
             }
         },
@@ -37,6 +42,9 @@
                     "FishAreaId": "{{AreaId}}"
                 },
                 "{{ModId}}_CaveAngelfish": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_DryboneDace": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }
