@@ -375,6 +375,28 @@
                         "season_winter",
                         "color_white"
                     ]
+                },
+                "{{ModId}}_CalartFish": {
+                    "Name": "{{ModId}}_CalartFish",
+                    "DisplayName": "{{i18n:{{ModId}}_CalartFish.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_CalartFish.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 450,
+                    "Texture": "Mods/{{ModId}}/Fish/FishSprite",
+                    "SpriteIndex": 16,
+                    "Edibility": 25,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_mountain",
+                        "fish_has_roe",
+                        "fish_calartfish",
+                        "season_fall",
+                        "color_blue"
+                    ]
                 }
             }
         }

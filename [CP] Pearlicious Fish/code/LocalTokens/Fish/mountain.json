@@ -17,6 +17,13 @@
                     "Id": "{{ModId}}_HillstreamLoach",
                     "ItemId": "(O){{ModId}}_HillstreamLoach",
                     "Condition": "LOCATION_Season Here Summer Fall"
+                },
+                "{{ModId}}_CalartFish": {
+                    "Id": "{{ModId}}_CalartFish",
+                    "ItemId": "(O){{ModId}}_CalartFish",
+                    "Condition": "LOCATION_Season Here Fall",
+                    "CatchLimit": 1,
+                    "IsBossFish": true
                 }
             }
         },
@@ -35,6 +42,9 @@
                     "FishAreaId": "{{AreaId}}"
                 },
                 "{{ModId}}_HillstreamLoach": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_CalartFish": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }

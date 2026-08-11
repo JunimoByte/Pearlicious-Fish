@@ -744,6 +744,58 @@
                             "(O)72 1" // Diamond
                         ]
                     }
+                },
+                "{{ModId}}_CalartFish": {
+                    "Id": "id_(O){{ModId}}_CalartFish",
+                    "RequiredTags": [
+                        "id_(O){{ModId}}_CalartFish"
+                    ],
+                    "SpawnTime": 10,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.6,
+                            "ItemID": "(O)812", // Roe
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.2,
+                            "ItemID": "(O)234", // Blueberry Tart
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.08,
+                            "ItemID": "(O)258", // Blueberry
+                            "MinQuantity": 5,
+                            "MaxQuantity": 7
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.05,
+                            "ItemID": "(O)797", // Pearl
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.03,
+                            "ItemID": "(O)74", // Prismatic Shard
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        }
+                    ],
+                    "PopulationGates": {
+                        "3": [
+                            "(O)234 1" // Blueberry Tart
+                        ],
+                        "6": [
+                            "(O)797 1" // Pearl
+                        ]
+                    }
                 }
             }
         }
