@@ -20,7 +20,7 @@
                 "{{ModId}}_CaveAngelfish": "{{ModId}}_CaveAngelfish/75/floater/2/5/600 1400/winter/both/690 .3 685/5/.1/.1/6/false",
                 "{{ModId}}_Paddlefish": "{{ModId}}_Paddlefish/86/mixed/50/87/600 1000 1600 1800/spring/rain/690 .3 685/3/.09/.1/7/false",
                 "{{ModId}}_DryboneDace": "{{ModId}}_DryboneDace/80/mixed/15/30/1800 2600/spring summer fall winter/both/690 .3 685/3/.07/.1/7/false",
-                "{{ModId}}_CalartFish": "{{ModId}}_CalartFish/90/mixed/18/30/1200 1600/fall/both/690 .3 685/3/.03/.1/8/false"
+                "{{ModId}}_CalartFish": "{{ModId}}_CalartFish/90/mixed/18/30/1200 1500/fall/both/690 .3 685/3/.03/.1/8/false"
             }
         }
     ]
