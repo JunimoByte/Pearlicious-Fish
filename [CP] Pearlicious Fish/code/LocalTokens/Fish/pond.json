@@ -27,6 +27,13 @@
                     "Id": "{{ModId}}_ButterflyKoi",
                     "ItemId": "(O){{ModId}}_ButterflyKoi",
                     "Condition": "LOCATION_Season Here Summer"
+                },
+                "{{ModId}}_OrangeFruitballoon": {
+                    "Id": "{{ModId}}_OrangeFruitballoon",
+                    "ItemId": "(O){{ModId}}_OrangeFruitballoon",
+                    "Condition": "LOCATION_Season Here Summer",
+                    "CatchLimit": 1,
+                    "IsBossFish": true
                 }
             }
         },
@@ -51,6 +58,9 @@
                     "FishAreaId": "{{AreaId}}"
                 },
                 "{{ModId}}_ButterflyKoi": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_OrangeFruitballoon": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }

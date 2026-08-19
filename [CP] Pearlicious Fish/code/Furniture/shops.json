@@ -8,259 +8,283 @@
                 "Items"
             ],
             "Entries": {
-                "{{ModId}}_MermaidBed": {
-                    "Id": "{{ModId}}_MermaidBed",
+                "{{ModId}}_CarpenterShop_MermaidBed": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidBed",
                     "ItemId": "(F){{ModId}}_MermaidBed",
                     "TradeItemId": "(O){{ModId}}_PinkEdisonPearl",
                     "TradeItemAmount": 1,
                     "Price": 500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_MermaidBedWhite": {
-                    "Id": "{{ModId}}_MermaidBedWhite",
+                "{{ModId}}_CarpenterShop_MermaidBedWhite": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidBedWhite",
                     "ItemId": "(F){{ModId}}_MermaidBedWhite",
                     "TradeItemId": "(O){{ModId}}_SilverEdisonPearl",
                     "TradeItemAmount": 1,
                     "Price": 500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_MermaidBedPink": {
-                    "Id": "{{ModId}}_MermaidBedPink",
+                "{{ModId}}_CarpenterShop_MermaidBedPink": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidBedPink",
                     "ItemId": "(F){{ModId}}_MermaidBedPink",
                     "TradeItemId": "(O){{ModId}}_PeacockTahitianPearl",
                     "TradeItemAmount": 1,
                     "Price": 500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_MermaidChair": {
-                    "Id": "{{ModId}}_MermaidChair",
+                "{{ModId}}_CarpenterShop_MermaidChair": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidChair",
                     "ItemId": "(F){{ModId}}_MermaidChair",
                     "TradeItemId": "(O){{ModId}}_PurpleRoseEdisonPearl",
                     "TradeItemAmount": 1,
                     "Price": 100,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_SilverMermaidChair": {
-                    "Id": "{{ModId}}_SilverMermaidChair",
+                "{{ModId}}_CarpenterShop_SilverMermaidChair": {
+                    "Id": "{{ModId}}_CarpenterShop_SilverMermaidChair",
                     "ItemId": "(F){{ModId}}_SilverMermaidChair",
                     "TradeItemId": "(O){{ModId}}_PurpleEdisonPearl",
                     "TradeItemAmount": 1,
                     "Price": 100,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_MermaidDresser_Pink": {
-                    "Id": "{{ModId}}_MermaidDresser_Pink",
+                "{{ModId}}_CarpenterShop_MermaidDresser_Pink": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidDresser_Pink",
                     "ItemId": "(F){{ModId}}_MermaidDresser",
                     "TradeItemId": "(O){{ModId}}_PinkPearl",
                     "TradeItemAmount": 2,
                     "Price": 2000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_MermaidDresser_Purple": {
-                    "Id": "MermaidDresser_Purple",
+                "{{ModId}}_CarpenterShop_MermaidDresser_Purple": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidDresser_Purple",
                     "ItemId": "(F){{ModId}}_MermaidDresser",
                     "TradeItemId": "(O){{ModId}}_PurplePearl",
                     "TradeItemAmount": 2,
                     "Price": 2000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_SilverMermaidDresser": {
-                    "Id": "_SilverMermaidDresser",
+                "{{ModId}}_CarpenterShop_SilverMermaidDresser": {
+                    "Id": "{{ModId}}_CarpenterShop_SilverMermaidDresser",
                     "ItemId": "(F){{ModId}}_SilverMermaidDresser",
                     "TradeItemId": "(O){{ModId}}_SilverEdisonPearl",
                     "TradeItemAmount": 2,
                     "Price": 1500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_MermaidSquareTable": {
-                    "Id": "{{ModId}}_MermaidSquareTable",
+                "{{ModId}}_CarpenterShop_MermaidSquareTable": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidSquareTable",
                     "ItemId": "(F){{ModId}}_MermaidSquareTable",
                     "TradeItemId": "(O){{ModId}}_PurplePearl",
                     "TradeItemAmount": 2,
                     "Price": 200,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_MermaidRoundTable": {
-                    "Id": "{{ModId}}_MermaidRoundTable",
+                "{{ModId}}_CarpenterShop_MermaidRoundTable": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidRoundTable",
                     "ItemId": "(F){{ModId}}_MermaidRoundTable",
                     "TradeItemId": "(O){{ModId}}_PinkPearl",
                     "TradeItemAmount": 2,
                     "Price": 200,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_SilverRoundTable": {
-                    "Id": "{{ModId}}_SilverRoundTable",
+                "{{ModId}}_CarpenterShop_SilverRoundTable": {
+                    "Id": "{{ModId}}_CarpenterShop_SilverRoundTable",
                     "ItemId": "(F){{ModId}}_SilverRoundTable",
                     "TradeItemId": "(O){{ModId}}_SilverEdisonPearl",
                     "TradeItemAmount": 1,
                     "Price": 100,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_MermaidLargeTable": {
-                    "Id": "{{ModId}}_MermaidLargeTable",
+                "{{ModId}}_CarpenterShop_MermaidLargeTable": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidLargeTable",
                     "ItemId": "(F){{ModId}}_MermaidLargeTable",
                     "TradeItemId": "(O){{ModId}}_RoseGoldPearl",
                     "TradeItemAmount": 1,
                     "Price": 2000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_MermaidNightTable": {
-                    "Id": "{{ModId}}_MermaidNightTable",
+                "{{ModId}}_CarpenterShop_MermaidNightTable": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidNightTable",
                     "ItemId": "(F){{ModId}}_MermaidNightTable",
                     "TradeItemId": "(O){{ModId}}_SmallRoseGoldPearl",
                     "TradeItemAmount": 1,
                     "Price": 150,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_SilverNightTable": {
-                    "Id": "{{ModId}}_SilverNightTable",
+                "{{ModId}}_CarpenterShop_SilverNightTable": {
+                    "Id": "{{ModId}}_CarpenterShop_SilverNightTable",
                     "ItemId": "(F){{ModId}}_SilverNightTable",
                     "TradeItemId": "(O){{ModId}}_SilverEdisonPearl",
                     "TradeItemAmount": 1,
                     "Price": 150,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_MermaidAquarium": {
-                    "Id": "{{ModId}}_MermaidAquarium",
+                "{{ModId}}_CarpenterShop_MermaidAquarium": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidAquarium",
                     "ItemId": "(F){{ModId}}_MermaidAquarium",
                     "TradeItemId": "(O){{ModId}}_BlackTahitianPearl",
                     "TradeItemAmount": 1,
                     "Price": 5000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_PearlAquarium": {
-                    "Id": "{{ModId}}_PearlAquarium",
+                "{{ModId}}_CarpenterShop_PearlAquarium": {
+                    "Id": "{{ModId}}_CarpenterShop_PearlAquarium",
                     "ItemId": "(F){{ModId}}_PearlAquarium",
                     "TradeItemId": "(O){{ModId}}_MeloPearl",
                     "TradeItemAmount": 1,
                     "Price": 4000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 8"
                 },
-                "{{ModId}}_HopefulNightPainting": {
-                    "Id": "{{ModId}}_HopefulNightPainting",
+                "{{ModId}}_CarpenterShop_HopefulNightPainting": {
+                    "Id": "{{ModId}}_CarpenterShop_HopefulNightPainting",
                     "ItemId": "(F){{ModId}}_HopefulNightPainting",
                     "TradeItemId": "(O){{ModId}}_SmallPinkPearl",
                     "TradeItemAmount": 1,
                     "Price": 500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 5"
                 },
-                "{{ModId}}_MagicalTouchPainting": {
-                    "Id": "{{ModId}}_MagicalTouchPainting",
+                "{{ModId}}_CarpenterShop_MagicalTouchPainting": {
+                    "Id": "{{ModId}}_CarpenterShop_MagicalTouchPainting",
                     "ItemId": "(F){{ModId}}_MagicalTouchPainting",
                     "TradeItemId": "(O){{ModId}}_SmallRoseGoldPearl",
                     "TradeItemAmount": 1,
                     "Price": 1000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 7"
                 },
-                "{{ModId}}_ArapaimaPlaque": {
-                    "Id": "{{ModId}}_ArapaimaPlaque",
-                    "ItemId": "(F){{ModId}}_ArapaimaPlaque",
-                    "TradeItemId": "(O){{ModId}}_Arapaima",
-                    "TradeItemAmount": 1,
-                    "Price": 2500,
-                    "Condition": "PLAYER_HAS_CAUGHT_FISH Current (O){{ModId}}_Arapaima, PLAYER_BASE_FISHING_LEVEL Current 10"
-                },
-                "{{ModId}}_MermaidLight": {
-                    "Id": "{{ModId}}_MermaidLight",
+                "{{ModId}}_CarpenterShop_MermaidLight": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidLight",
                     "ItemId": "(F){{ModId}}_MermaidLight",
                     "TradeItemId": "(O){{ModId}}_SmallPinkPearl",
                     "TradeItemAmount": 1,
                     "Price": 1500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 6"
                 },
-                "{{ModId}}_BlueMermaidCarpet": {
-                    "Id": "{{ModId}}_BlueMermaidCarpet",
+                "{{ModId}}_CarpenterShop_BlueMermaidCarpet": {
+                    "Id": "{{ModId}}_CarpenterShop_BlueMermaidCarpet",
                     "ItemId": "(F){{ModId}}_BlueMermaidCarpet",
                     "TradeItemId": "(O){{ModId}}_SmallPurplePearl",
                     "TradeItemAmount": 1,
                     "Price": 500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 3"
                 },
-                "{{ModId}}_PinkMermaidCarpet": {
-                    "Id": "{{ModId}}_PinkMermaidCarpet",
+                "{{ModId}}_CarpenterShop_PinkMermaidCarpet": {
+                    "Id": "{{ModId}}_CarpenterShop_PinkMermaidCarpet",
                     "ItemId": "(F){{ModId}}_PinkMermaidCarpet",
                     "TradeItemId": "(O){{ModId}}_SmallPinkPearl",
                     "TradeItemAmount": 1,
                     "Price": 500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 3"
                 },
-                "{{ModId}}_TahitianPeacockLight": {
-                    "Id": "{{ModId}}_TahitianPeacockLight",
+                "{{ModId}}_CarpenterShop_TahitianPeacockLight": {
+                    "Id": "{{ModId}}_CarpenterShop_TahitianPeacockLight",
                     "ItemId": "(F){{ModId}}_TahitianPeacockLight",
                     "TradeItemId": "(O){{ModId}}_PeacockTahitianPearl",
                     "TradeItemAmount": 1,
                     "Price": 800,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 3"
                 },
-                "{{ModId}}_CrownMermaidChair": {
-                    "Id": "{{ModId}}_CrownMermaidChair",
+                "{{ModId}}_CarpenterShop_CrownMermaidChair": {
+                    "Id": "{{ModId}}_CarpenterShop_CrownMermaidChair",
                     "ItemId": "(F){{ModId}}_CrownMermaidChair",
                     "TradeItemId": "(O){{ModId}}_MeloPearl",
                     "TradeItemAmount": 1,
                     "Price": 1500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 3"
                 },
-                "{{ModId}}_MermaidBanner1": {
-                    "Id": "{{ModId}}_MermaidBanner1",
+                "{{ModId}}_CarpenterShop_MermaidBanner1": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidBanner1",
                     "ItemId": "(F){{ModId}}_MermaidBanner1",
                     "TradeItemId": "(O){{ModId}}_SmallPinkPearl",
                     "TradeItemAmount": 3,
                     "Price": 500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 3"
                 },
-                "{{ModId}}_MermaidBanner2": {
-                    "Id": "{{ModId}}_MermaidBanner2",
+                "{{ModId}}_CarpenterShop_MermaidBanner2": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidBanner2",
                     "ItemId": "(F){{ModId}}_MermaidBanner2",
                     "TradeItemId": "(O){{ModId}}_SmallPurplePearl",
                     "TradeItemAmount": 3,
                     "Price": 500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 3"
                 },
-                "{{ModId}}_RoundBeachPainting": {
-                    "Id": "{{ModId}}_RoundBeachPainting",
+                "{{ModId}}_CarpenterShop_RoundBeachPainting": {
+                    "Id": "{{ModId}}_CarpenterShop_RoundBeachPainting",
                     "ItemId": "(F){{ModId}}_RoundBeachPainting",
                     "TradeItemId": "(O){{ModId}}_SmallPinkPearl",
                     "TradeItemAmount": 1,
                     "Price": 500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 5"
                 },
-                "{{ModId}}_PearliciousPainting": {
-                    "Id": "{{ModId}}_PearliciousPainting",
+                "{{ModId}}_CarpenterShop_PearliciousPainting": {
+                    "Id": "{{ModId}}_CarpenterShop_PearliciousPainting",
                     "ItemId": "(F){{ModId}}_PearliciousPainting",
                     "TradeItemId": "(O){{ModId}}_SmallPurplePearl",
                     "TradeItemAmount": 1,
                     "Price": 500,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 5"
                 },
-                "{{ModId}}_MermaidSilverTorch": {
-                    "Id": "{{ModId}}_MermaidSilverTorch",
+                "{{ModId}}_CarpenterShop_MermaidSilverTorch": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidSilverTorch",
                     "ItemId": "(F){{ModId}}_MermaidSilverTorch",
                     "TradeItemId": "(O){{ModId}}_SmallPurplePearl",
                     "TradeItemAmount": 1,
                     "Price": 250,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 5"
                 },
-                "{{ModId}}_MermaidOrbTorch": {
-                    "Id": "{{ModId}}_MermaidOrbTorch",
+                "{{ModId}}_CarpenterShop_MermaidOrbTorch": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidOrbTorch",
                     "ItemId": "(F){{ModId}}_MermaidOrbTorch",
                     "TradeItemId": "(O){{ModId}}_SmallPinkPearl",
                     "TradeItemAmount": 1,
                     "Price": 250,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 5"
                 },
-                "{{ModId}}_MermaidPath_Recipe": {
-                    "Id": "{{ModId}}_MermaidPath_Recipe",
+                "{{ModId}}_CarpenterShop_MermaidPath_Recipe": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidPath_Recipe",
                     "ItemId": "{{ModId}}_MermaidPath",
                     "IsRecipe": true,
                     "Price": 1000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 10"
                 },
-                "{{ModId}}_MermaidFence_Recipe": {
-                    "Id": "{{ModId}}_MermaidFence_Recipe",
+                "{{ModId}}_CarpenterShop_MermaidFence_Recipe": {
+                    "Id": "{{ModId}}_CarpenterShop_MermaidFence_Recipe",
                     "ItemId": "{{ModId}}_MermaidFence",
                     "IsRecipe": true,
                     "Price": 1000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 10"
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [
+                "FishShop",
+                "Items"
+            ],
+            "Entries": {
+                "{{ModId}}_FishShop_PriedClam": {
+                    "Id": "{{ModId}}_FishShop_PriedClam",
+                    "ItemId": "(O){{ModId}}_PriedClam",
+                    "Price": 300,
+                    "MaxStack": 1,
+                    "Condition": "SEASON Spring Summer, WEATHER Here GreenRain Storm Rain, PLAYER_BASE_FISHING_LEVEL Current 5"
+                },
+                "{{ModId}}_FishShop_PriedOyster": {
+                    "Id": "{{ModId}}_FishShop_PriedOyster",
+                    "ItemId": "(O){{ModId}}_PriedOyster",
+                    "Price": 350,
+                    "MaxStack": 1,
+                    "Condition": "SEASON Spring Summer, WEATHER Here GreenRain Storm Rain, PLAYER_BASE_FISHING_LEVEL Current 5"
+                },
+                "{{ModId}}_FishShop_ArapaimaPlaque": {
+                    "Id": "{{ModId}}_FishShop_ArapaimaPlaque",
+                    "ItemId": "(F){{ModId}}_ArapaimaPlaque",
+                    "TradeItemId": "(O){{ModId}}_Arapaima",
+                    "TradeItemAmount": 1,
+                    "Price": 2500,
+                    "Condition": "PLAYER_HAS_CAUGHT_FISH Current (O){{ModId}}_Arapaima, PLAYER_BASE_FISHING_LEVEL Current 10"
                 }
             }
         }

@@ -1,1 +1,21 @@
-{}
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Quests",
+            "Entries": {
+                "{{ModId}}_QuestWillyCutthroatTrout": "{{i18n:{{ModId}}_QuestWillyCutthroatTrout}}",
+                "{{ModId}}_QuestWillyMusky": "{{i18n:{{ModId}}_QuestWillyMusky}}",
+                "{{ModId}}_QuestWillyArapaima": "{{i18n:{{ModId}}_QuestWillyArapaima}}",
+                "{{ModId}}_QuestWizardWidemouthBlindcat": "{{i18n:{{ModId}}_QuestWizardWidemouthBlindcat}}",
+                "{{ModId}}_QuestGusCalartFish": "{{i18n:{{ModId}}_QuestGusCalartFish}}",
+                "{{ModId}}_QuestDemetriusGoliathTiger": "{{i18n:{{ModId}}_QuestDemetriusGoliathTiger}}",
+                "{{ModId}}_QuestLinusPaddlefish": "{{i18n:{{ModId}}_QuestLinusPaddlefish}}",
+                "{{ModId}}_QuestEmilyOrangeFruitballoon": "{{i18n:{{ModId}}_QuestEmilyOrangeFruitballoon}}",
+                "{{ModId}}_QuestJasSmallPinkPearl": "{{i18n:{{ModId}}_QuestJasSmallPinkPearl}}",
+                "{{ModId}}_QuestElliottPurplePearl": "{{i18n:{{ModId}}_QuestElliottPurplePearl}}",
+                "{{ModId}}_QuestClintPeacockPearl": "{{i18n:{{ModId}}_QuestClintPeacockPearl}}"
+            }
+        }
+    ]
+}

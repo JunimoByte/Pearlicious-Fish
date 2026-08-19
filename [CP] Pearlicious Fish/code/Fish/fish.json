@@ -385,7 +385,7 @@
                     "Price": 450,
                     "Texture": "Mods/{{ModId}}/Fish/FishSprite",
                     "SpriteIndex": 16,
-                    "Edibility": 25,
+                    "Edibility": 30,
                     "IsDrink": false,
                     "ExcludeFromFishingCollection": false,
                     "ExcludeFromShippingCollection": false,
@@ -396,6 +396,28 @@
                         "fish_calartfish",
                         "season_fall",
                         "color_blue"
+                    ]
+                },
+                "{{ModId}}_OrangeFruitballoon": {
+                    "Name": "{{ModId}}_OrangeFruitballoon",
+                    "DisplayName": "{{i18n:{{ModId}}_OrangeFruitballoon.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_OrangeFruitballoon.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 450,
+                    "Texture": "Mods/{{ModId}}/Fish/FishSprite",
+                    "SpriteIndex": 17,
+                    "Edibility": 60,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_pond",
+                        "fish_has_roe",
+                        "fish_orangefruitballoon",
+                        "season_summer",
+                        "color_orange"
                     ]
                 }
             }

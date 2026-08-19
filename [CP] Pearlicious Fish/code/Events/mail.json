@@ -1,1 +1,25 @@
-{}
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "{{ModId}}_QuestWillyCutthroatTroutLetter": "{{i18n:{{ModId}}_QuestWillyCutthroatTroutLetter}}",
+                "{{ModId}}_QuestWillyMuskyLetter": "{{i18n:{{ModId}}_QuestWillyMuskyLetter}}",
+                "{{ModId}}_QuestWillyArapaimaLetter": "{{i18n:{{ModId}}_QuestWillyArapaimaLetter}}",
+                "{{ModId}}_QuestWillyArapaimaThankYouLetter": "{{i18n:{{ModId}}_QuestWillyArapaimaThankYouLetter}}",
+                "{{ModId}}_QuestWizardWidemouthBlindcatLetter": "{{i18n:{{ModId}}_QuestWizardWidemouthBlindcatLetter}}",
+                "{{ModId}}_QuestWizardWidemouthBlindcatThankYouLetter": "{{i18n:{{ModId}}_QuestWizardWidemouthBlindcatThankYouLetter}}",
+                "{{ModId}}_QuestGusCalartFishLetter": "{{i18n:{{ModId}}_QuestGusCalartFishLetter}}",
+                "{{ModId}}_QuestGusCalartFishThankYouLetter": "{{i18n:{{ModId}}_QuestGusCalartFishThankYouLetter}}",
+                "{{ModId}}_QuestDemetriusGoliathTigerLetter": "{{i18n:{{ModId}}_QuestDemetriusGoliathTigerLetter}}",
+                "{{ModId}}_QuestLinusPaddlefishLetter": "{{i18n:{{ModId}}_QuestLinusPaddlefishLetter}}",
+                "{{ModId}}_QuestEmilyOrangeFruitballoonLetter": "{{i18n:{{ModId}}_QuestEmilyOrangeFruitballoonLetter}}",
+                "{{ModId}}_QuestJasSmallPinkPearlLetter": "{{i18n:{{ModId}}_QuestJasSmallPinkPearlLetter}}",
+                "{{ModId}}_QuestElliottPurplePearlLetter": "{{i18n:{{ModId}}_QuestElliottPurplePearlLetter}}",
+                "{{ModId}}_QuestClintPeacockPearlLetter": "{{i18n:{{ModId}}_QuestClintPeacockPearlLetter}}",
+                "{{ModId}}_QuestClintPeacockPearlThankYouLetter": "{{i18n:{{ModId}}_QuestClintPeacockPearlThankYouLetter}}"
+            }
+        }
+    ]
+}

@@ -7,8 +7,8 @@ We both contributed to the planning, design, and direction of the mod.
 
 ## Contributors
 
-* **LucyTheDove**
 * **Calart**
+* **LucyTheDove**
 
 ## Special Thanks
 
