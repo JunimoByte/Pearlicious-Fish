@@ -29,7 +29,7 @@
             "FromFile": "code/LocalTokens/Fish/river.json",
             "LocalTokens": {
                 "TargetName": "Forest",
-                "AreaId": "<null>"
+                "AreaId": "River"
             }
         },
         {
