@@ -136,8 +136,6 @@
     "LucyAndCalart.PF_MermaidBanner1.description": "Mermaid Banner 1",
     "LucyAndCalart.PF_MermaidBanner2.displayname": "Mermaid Banner 2",
     "LucyAndCalart.PF_MermaidBanner2.description": "Mermaid Banner 2",
-    "LucyAndCalart.PF_MermaidFence.displayname": "Mermaid Fence",
-    "LucyAndCalart.PF_MermaidFence.description": "Mermaid Fence",
     "LucyAndCalart.PF_QuestWillyCutthroatTrout": "ItemDelivery/Cutthroat Trout/Willy wants a fresh Cutthroat Trout from the mountain lake./Bring Willy 1 Cutthroat Trout./Willy (O){{ModId}}_CutthroatTrout 1/-1/350/-1/true/Ah, a Cutthroat Trout! Look at the red mark on its throat. Thanks, @!$h",
     "LucyAndCalart.PF_QuestWillyCutthroatTroutLetter": "Ahoy there, @!^The Cutthroat Trout are biting up near the mountain lake. If you manage to reel one in, bring it by the shop!^ -Willy %item quest {{ModId}}_QuestWillyCutthroatTrout %% [#]Cutthroat Trout",
     "LucyAndCalart.PF_QuestWillyMusky": "ItemDelivery/A Musky for Willy/Willy wants a Musky from the river./Bring Willy 1 Musky./Willy (O){{ModId}}_Musky 1/-1/450/-1/true/That's a nice, healthy Musky! Thanks for the catch, @.$h",

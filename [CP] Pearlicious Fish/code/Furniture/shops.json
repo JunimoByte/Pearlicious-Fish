@@ -246,13 +246,6 @@
                     "IsRecipe": true,
                     "Price": 1000,
                     "Condition": "PLAYER_BASE_FISHING_LEVEL Current 10"
-                },
-                "{{ModId}}_CarpenterShop_MermaidFence_Recipe": {
-                    "Id": "{{ModId}}_CarpenterShop_MermaidFence_Recipe",
-                    "ItemId": "{{ModId}}_MermaidFence",
-                    "IsRecipe": true,
-                    "Price": 1000,
-                    "Condition": "PLAYER_BASE_FISHING_LEVEL Current 10"
                 }
             }
         },

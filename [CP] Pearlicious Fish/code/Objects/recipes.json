@@ -10,8 +10,7 @@
                 "{{ModId}}_SirensSaber": "(O)336 5 (O)797 1 (O){{ModId}}_PeacockTahitianPearl 2/Home/(W){{ModId}}_SirensSaber 1/false/s Combat 10",
                 "{{ModId}}_MermaidOrbTorch": "(O){{ModId}}_MolluskMeat 10 (O){{ModId}}_PinkPearl 1/Home/(F){{ModId}}_MermaidOrbTorch 1/false/s Fishing 5",
                 "{{ModId}}_MermaidSilverTorch": "(O){{ModId}}_MolluskMeat 10 (O){{ModId}}_PurplePearl 1/Home/(F){{ModId}}_MermaidSilverTorch 1/false/s Fishing 5",
-                "{{ModId}}_MermaidPath": "(O){{ModId}}_MolluskMeat 1/Home/(O){{ModId}}_MermaidPath 5/false/null",
-                "{{ModId}}_MermaidFence": "(O){{ModId}}_MolluskMeat 1 (O)388 1/Home/(O){{ModId}}_MermaidFence 1/false/null"
+                "{{ModId}}_MermaidPath": "(O){{ModId}}_MolluskMeat 1/Home/(O){{ModId}}_MermaidPath 5/false/null"
             }
         }
     ]
