@@ -55,6 +55,27 @@
             "When": {
                 "HasMod": "skellady.SBVCP"
             }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/Mods/DowntownZuzu/compat.json",
+            "When": {
+                "HasMod": "DTZ.DowntownZuzuCP"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/Mods/BaldursVillage/compat.json",
+            "When": {
+                "HasMod": "BaldursVillage.BVCP"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Compat/Mods/RTMT/compat.json",
+            "When": {
+                "HasMod": "Rexstrife20.MineralTownCP"
+            }
         }
     ]
 }

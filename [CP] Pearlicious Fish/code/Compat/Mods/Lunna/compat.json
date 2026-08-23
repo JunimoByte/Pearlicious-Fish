@@ -2,9 +2,17 @@
     "Changes": [
         {
             "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/cave.json",
+            "LocalTokens": {
+                "TargetName": "Custom_LASV_FallsCave",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
             "FromFile": "code/LocalTokens/Fish/pond.json",
             "LocalTokens": {
-                "TargetName": "Custom_SBV_SunberryForest",
+                "TargetName": "Custom_LASV_LunnaLake",
                 "AreaId": "<null>"
             }
         },
@@ -12,17 +20,9 @@
             "Action": "Include",
             "FromFile": "code/LocalTokens/Fish/mountain.json",
             "LocalTokens": {
-                "TargetName": "Custom_SBV_SunberryMountain",
-                "AreaId": "<null>"
-            }
-        },
-        {
-            "Action": "Include",
-            "FromFile": "code/LocalTokens/Fish/river.json",
-            "LocalTokens": {
-                "TargetName": "Custom_SBV_SunberryVillage",
+                "TargetName": "Custom_LASV_Umuwi",
                 "AreaId": "<null>"
             }
         }
     ]
-} 
+}

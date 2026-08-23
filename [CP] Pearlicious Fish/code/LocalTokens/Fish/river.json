@@ -1,4 +1,4 @@
-{
+﻿{
     "Changes": [
         {
             "Action": "EditData",
@@ -11,37 +11,37 @@
                 "{{ModId}}_Musky": {
                     "Id": "{{ModId}}_Musky",
                     "ItemId": "(O){{ModId}}_Musky",
-                    "Condition": "LOCATION_Season Here Summer Fall"
+                    "Condition": "LOCATION_SEASON Here Summer Fall"
                 },
                 "{{ModId}}_Snakehead": {
                     "Id": "{{ModId}}_Snakehead",
                     "ItemId": "(O){{ModId}}_Snakehead",
-                    "Condition": "LOCATION_Season Here Summer"
+                    "Condition": "LOCATION_SEASON Here Summer"
                 },
                 "{{ModId}}_PeacockBass": {
                     "Id": "{{ModId}}_PeacockBass",
                     "ItemId": "(O){{ModId}}_PeacockBass",
-                    "Condition": "LOCATION_Season Here Summer Fall"
+                    "Condition": "LOCATION_SEASON Here Summer Fall"
                 },
                 "{{ModId}}_BlackBuffalo": {
                     "Id": "{{ModId}}_BlackBuffalo",
                     "ItemId": "(O){{ModId}}_BlackBuffalo",
-                    "Condition": "LOCATION_Season Here Spring"
+                    "Condition": "LOCATION_SEASON Here Spring"
                 },
                 "{{ModId}}_Arapaima": {
                     "Id": "{{ModId}}_Arapaima",
                     "ItemId": "(O){{ModId}}_Arapaima",
-                    "Condition": "LOCATION_Season Here Fall Winter"
+                    "Condition": "LOCATION_SEASON Here Fall Winter"
                 },
                 "{{ModId}}_GoliathTiger": {
                     "Id": "{{ModId}}_GoliathTiger",
                     "ItemId": "(O){{ModId}}_GoliathTiger",
-                    "Condition": "LOCATION_Season Here Summer Winter"
+                    "Condition": "LOCATION_SEASON Here Summer Winter"
                 },
                 "{{ModId}}_Paddlefish": {
                     "Id": "{{ModId}}_Paddlefish",
                     "ItemId": "(O){{ModId}}_Paddlefish",
-                    "Condition": "LOCATION_Season Here Spring"
+                    "Condition": "LOCATION_SEASON Here Spring"
                 }
             }
         },

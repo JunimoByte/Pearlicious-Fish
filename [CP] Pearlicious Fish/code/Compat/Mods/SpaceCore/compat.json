@@ -21,7 +21,7 @@
             "Entries": {
                 "{{ModId}}_SirensSignetBuff": {
                     "DisplayName": "{{i18n:{{ModId}}_SirensSignetRing.displayname}}",
-                    "IconTexture": "Mods/{{ModId}}/ObjectSprite",
+                    "IconTexture": "Mods/{{ModId}}/Objects/ObjectSprite",
                     "IconSpriteIndex": 16,
                     "Duration": -2,
                     "Effects": {

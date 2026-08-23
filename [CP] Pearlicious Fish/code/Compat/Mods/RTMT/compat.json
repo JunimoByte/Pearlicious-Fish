@@ -2,17 +2,9 @@
     "Changes": [
         {
             "Action": "Include",
-            "FromFile": "code/LocalTokens/Fish/pond.json",
+            "FromFile": "code/LocalTokens/Fish/river.json",
             "LocalTokens": {
-                "TargetName": "Custom_SBV_SunberryForest",
-                "AreaId": "<null>"
-            }
-        },
-        {
-            "Action": "Include",
-            "FromFile": "code/LocalTokens/Fish/mountain.json",
-            "LocalTokens": {
-                "TargetName": "Custom_SBV_SunberryMountain",
+                "TargetName": "Rexstrife20.MineralTownCP_TownCenter",
                 "AreaId": "<null>"
             }
         },
@@ -20,7 +12,15 @@
             "Action": "Include",
             "FromFile": "code/LocalTokens/Fish/river.json",
             "LocalTokens": {
-                "TargetName": "Custom_SBV_SunberryVillage",
+                "TargetName": "Rexstrife20.MineralTownCP_GoddessHill",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/mountain.json",
+            "LocalTokens": {
+                "TargetName": "Rexstrife20.MineralTownCP_MountainLake",
                 "AreaId": "<null>"
             }
         }

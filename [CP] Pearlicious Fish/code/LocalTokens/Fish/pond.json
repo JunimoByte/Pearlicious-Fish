@@ -1,4 +1,4 @@
-{
+﻿{
     "Changes": [
         {
             "Action": "EditData",
@@ -11,27 +11,27 @@
                 "{{ModId}}_KoiCarp": {
                     "Id": "{{ModId}}_KoiCarp",
                     "ItemId": "(O){{ModId}}_KoiCarp",
-                    "Condition": "LOCATION_Season Here Spring Summer"
+                    "Condition": "LOCATION_SEASON Here Spring Summer"
                 },
                 "{{ModId}}_RedBetta": {
                     "Id": "{{ModId}}_RedBetta",
                     "ItemId": "(O){{ModId}}_RedBetta",
-                    "Condition": "LOCATION_Season Here Spring Summer Fall"
+                    "Condition": "LOCATION_SEASON Here Spring Summer Fall"
                 },
                 "{{ModId}}_BlueBetta": {
                     "Id": "{{ModId}}_BlueBetta",
                     "ItemId": "(O){{ModId}}_BlueBetta",
-                    "Condition": "LOCATION_Season Here Spring Summer Fall"
+                    "Condition": "LOCATION_SEASON Here Spring Summer Fall"
                 },
                 "{{ModId}}_ButterflyKoi": {
                     "Id": "{{ModId}}_ButterflyKoi",
                     "ItemId": "(O){{ModId}}_ButterflyKoi",
-                    "Condition": "LOCATION_Season Here Summer"
+                    "Condition": "LOCATION_SEASON Here Summer"
                 },
                 "{{ModId}}_OrangeFruitballoon": {
                     "Id": "{{ModId}}_OrangeFruitballoon",
                     "ItemId": "(O){{ModId}}_OrangeFruitballoon",
-                    "Condition": "LOCATION_Season Here Summer",
+                    "Condition": "LOCATION_SEASON Here Summer",
                     "CatchLimit": 1,
                     "IsBossFish": true
                 }

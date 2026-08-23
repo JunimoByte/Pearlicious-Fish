@@ -11,18 +11,38 @@
                 "{{ModId}}_WidemouthBlindcat": {
                     "Id": "{{ModId}}_WidemouthBlindcat",
                     "ItemId": "(O){{ModId}}_WidemouthBlindcat",
-                    "Condition": "LOCATION_NAME Here UndergroundMine60, LOCATION_Season Here Spring Summer Fall Winter",
                     "CatchLimit": 1,
                     "IsBossFish": true
                 },
                 "{{ModId}}_CaveAngelfish": {
                     "Id": "{{ModId}}_CaveAngelfish",
                     "ItemId": "(O){{ModId}}_CaveAngelfish",
-                    "Condition": "LOCATION_NAME Here UndergroundMine60, LOCATION_Season Here Winter"
+                    "Condition": "LOCATION_SEASON Here Winter"
                 },
                 "{{ModId}}_DryboneDace": {
                     "Id": "{{ModId}}_DryboneDace",
-                    "ItemId": "(O){{ModId}}_DryboneDace",
+                    "ItemId": "(O){{ModId}}_DryboneDace"
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "{{TargetName}}",
+                "Fish"
+            ],
+            "When": {
+                "TargetName": "UndergroundMine"
+            },
+            "Fields": {
+                "{{ModId}}_WidemouthBlindcat": {
+                    "Condition": "LOCATION_NAME Here UndergroundMine60"
+                },
+                "{{ModId}}_CaveAngelfish": {
+                    "Condition": "LOCATION_NAME Here UndergroundMine60, LOCATION_SEASON Here Winter"
+                },
+                "{{ModId}}_DryboneDace": {
                     "Condition": "LOCATION_NAME Here UndergroundMine60"
                 }
             }

@@ -1,0 +1,20 @@
+{
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/river.json",
+            "LocalTokens": {
+                "TargetName": "Custom_Baldur_Village",
+                "AreaId": "<null>"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/LocalTokens/Fish/river.json",
+            "LocalTokens": {
+                "TargetName": "Custom_Baldur_Village_Forest",
+                "AreaId": "<null>"
+            }
+        }
+    ]
+}

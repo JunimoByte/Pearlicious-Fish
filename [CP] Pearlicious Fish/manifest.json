@@ -14,6 +14,50 @@
     {
       "UniqueID": "Pathoschild.ContentPatcher",
       "IsRequired": true
+    },
+    {
+      "UniqueID": "spacechase0.SpaceCore",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "mushymato.MobyDick",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "Lemurkat.EastScarp",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "Rafseazz.RidgesideVillage",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "lumisteria.visitmountvapius.code",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "Rafseazz.LunnaCP",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "skellady.SBVCP",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "DTZ.DowntownZuzuCP",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "BaldursVillage.BVCP",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "Rexstrife20.MineralTownCP",
+      "IsRequired": false
     }
   ]
 }
