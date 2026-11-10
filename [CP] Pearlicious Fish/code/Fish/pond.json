@@ -1,4 +1,4 @@
-﻿{
+{
     "Changes": [
         {
             "Action": "EditData",
@@ -169,8 +169,8 @@
                         },
                         {
                             "RequiredPopulation": 8,
-                            "Chance": 0.05,
-                            "ItemId": "(O)74", // Prismatic Shard
+                            "Chance": 0.04,
+                            "ItemId": "(O){{ModId}}_BlackTahitianPearl",
                             "MinStack": 1,
                             "MaxStack": 1
                         }
@@ -442,14 +442,14 @@
                             "Chance": 0.05,
                             "ItemId": "(O)797", // Pearl
                             "MinStack": 1,
-                            "MaxStack": 2
+                            "MaxStack": 1
                         },
                         {
                             "RequiredPopulation": 8,
-                            "Chance": 0.03,
+                            "Chance": 0.01,
                             "ItemId": "(O)74", // Prismatic Shard
                             "MinStack": 1,
-                            "MaxStack": 2
+                            "MaxStack": 1
                         }
                     ],
                     "PopulationGates": {
@@ -679,16 +679,16 @@
                         {
                             "RequiredPopulation": 5,
                             "Chance": 0.05,
-                            "ItemId": "(O)166", // Treasure Chest
+                            "ItemId": "(O)797", // Pearl
                             "MinStack": 1,
                             "MaxStack": 1
                         },
                         {
                             "RequiredPopulation": 8,
                             "Chance": 0.03,
-                            "ItemId": "(O)74", // Prismatic Shard
+                            "ItemId": "(O){{ModId}}_MeloPearl",
                             "MinStack": 1,
-                            "MaxStack": 2
+                            "MaxStack": 1
                         }
                     ],
                     "PopulationGates": {
@@ -778,14 +778,14 @@
                             "Chance": 0.05,
                             "ItemId": "(O)797", // Pearl
                             "MinStack": 1,
-                            "MaxStack": 2
+                            "MaxStack": 1
                         },
                         {
                             "RequiredPopulation": 8,
-                            "Chance": 0.03,
+                            "Chance": 0.01,
                             "ItemId": "(O)74", // Prismatic Shard
                             "MinStack": 1,
-                            "MaxStack": 2
+                            "MaxStack": 1
                         }
                     ],
                     "PopulationGates": {
@@ -830,14 +830,14 @@
                             "Chance": 0.05,
                             "ItemId": "(O)797", // Pearl
                             "MinStack": 1,
-                            "MaxStack": 2
+                            "MaxStack": 1
                         },
                         {
                             "RequiredPopulation": 8,
-                            "Chance": 0.03,
+                            "Chance": 0.01,
                             "ItemId": "(O)74", // Prismatic Shard
                             "MinStack": 1,
-                            "MaxStack": 2
+                            "MaxStack": 1
                         }
                     ],
                     "PopulationGates": {
