@@ -36,36 +36,36 @@
                         "AddMail Current {{ModId}}_QuestWillyArapaimaThankYouLetter now"
                     ]
                 },
-                "{{ModId}}_QuestWizardWidemouthBlindcat_Trigger": {
-                    "Id": "{{ModId}}_QuestWizardWidemouthBlindcat_Trigger",
+                "{{ModId}}_QuestWizardDryboneDace_Trigger": {
+                    "Id": "{{ModId}}_QuestWizardDryboneDace_Trigger",
                     "Trigger": "LocationChanged",
-                    "Condition": "LOCATION_NAME Here WizardHouse, PLAYER_HEARTS Current Wizard 4, PLAYER_BASE_FISHING_LEVEL Current 8, DAY_OF_MONTH odd, RANDOM 0.2, !PLAYER_HAS_MAIL Current {{ModId}}_QuestWizardWidemouthBlindcatLetter",
+                    "Condition": "LOCATION_NAME Here WizardHouse, PLAYER_HEARTS Current Wizard 4, PLAYER_BASE_FISHING_LEVEL Current 7, DAY_OF_MONTH odd, RANDOM 0.2, !PLAYER_HAS_MAIL Current {{ModId}}_QuestWizardDryboneDaceLetter",
                     "Actions": [
-                        "AddMail Current {{ModId}}_QuestWizardWidemouthBlindcatLetter tomorrow"
+                        "AddMail Current {{ModId}}_QuestWizardDryboneDaceLetter tomorrow"
                     ]
                 },
-                "{{ModId}}_QuestWizardWidemouthBlindcatThankYouLetter_Trigger": {
-                    "Id": "{{ModId}}_QuestWizardWidemouthBlindcatThankYouLetter_Trigger",
+                "{{ModId}}_QuestWizardDryboneDaceThankYouLetter_Trigger": {
+                    "Id": "{{ModId}}_QuestWizardDryboneDaceThankYouLetter_Trigger",
                     "Trigger": "DayStarted",
-                    "Condition": "PLAYER_HAS_MAIL Current {{ModId}}_QuestWizardWidemouthBlindcatLetter, PLAYER_HAS_CAUGHT_FISH Current (O){{ModId}}_WidemouthBlindcat, !PLAYER_HAS_MAIL Current {{ModId}}_QuestWizardWidemouthBlindcatThankYouLetter",
+                    "Condition": "PLAYER_HAS_MAIL Current {{ModId}}_QuestWizardDryboneDaceLetter, PLAYER_HAS_CAUGHT_FISH Current (O){{ModId}}_DryboneDace, !PLAYER_HAS_MAIL Current {{ModId}}_QuestWizardDryboneDaceThankYouLetter",
                     "Actions": [
-                        "AddMail Current {{ModId}}_QuestWizardWidemouthBlindcatThankYouLetter now"
+                        "AddMail Current {{ModId}}_QuestWizardDryboneDaceThankYouLetter now"
                     ]
                 },
-                "{{ModId}}_QuestGusCalartFish_Trigger": {
-                    "Id": "{{ModId}}_QuestGusCalartFish_Trigger",
+                "{{ModId}}_QuestGusPeacockBass_Trigger": {
+                    "Id": "{{ModId}}_QuestGusPeacockBass_Trigger",
                     "Trigger": "LocationChanged",
-                    "Condition": "LOCATION_NAME Here Saloon Town, SEASON Fall, PLAYER_HEARTS Current Gus 3, PLAYER_BASE_FISHING_LEVEL Current 7, DAY_OF_MONTH even, RANDOM 0.2, !PLAYER_HAS_MAIL Current {{ModId}}_QuestGusCalartFishLetter",
+                    "Condition": "LOCATION_NAME Here Saloon Town, SEASON Summer Fall, PLAYER_HEARTS Current Gus 3, PLAYER_BASE_FISHING_LEVEL Current 5, DAY_OF_MONTH even, RANDOM 0.2, !PLAYER_HAS_MAIL Current {{ModId}}_QuestGusPeacockBassLetter",
                     "Actions": [
-                        "AddMail Current {{ModId}}_QuestGusCalartFishLetter tomorrow"
+                        "AddMail Current {{ModId}}_QuestGusPeacockBassLetter tomorrow"
                     ]
                 },
-                "{{ModId}}_QuestGusCalartFishThankYouLetter_Trigger": {
-                    "Id": "{{ModId}}_QuestGusCalartFishThankYouLetter_Trigger",
+                "{{ModId}}_QuestGusPeacockBassThankYouLetter_Trigger": {
+                    "Id": "{{ModId}}_QuestGusPeacockBassThankYouLetter_Trigger",
                     "Trigger": "DayStarted",
-                    "Condition": "PLAYER_HAS_MAIL Current {{ModId}}_QuestGusCalartFishLetter, PLAYER_HAS_CAUGHT_FISH Current (O){{ModId}}_CalartFish, !PLAYER_HAS_MAIL Current {{ModId}}_QuestGusCalartFishThankYouLetter",
+                    "Condition": "PLAYER_HAS_MAIL Current {{ModId}}_QuestGusPeacockBassLetter, PLAYER_HAS_CAUGHT_FISH Current (O){{ModId}}_PeacockBass, !PLAYER_HAS_MAIL Current {{ModId}}_QuestGusPeacockBassThankYouLetter",
                     "Actions": [
-                        "AddMail Current {{ModId}}_QuestGusCalartFishThankYouLetter now"
+                        "AddMail Current {{ModId}}_QuestGusPeacockBassThankYouLetter now"
                     ]
                 },
                 "{{ModId}}_QuestDemetriusGoliathTiger_Trigger": {
@@ -84,12 +84,12 @@
                         "AddMail Current {{ModId}}_QuestLinusPaddlefishLetter tomorrow"
                     ]
                 },
-                "{{ModId}}_QuestEmilyOrangeFruitballoon_Trigger": {
-                    "Id": "{{ModId}}_QuestEmilyOrangeFruitballoon_Trigger",
+                "{{ModId}}_QuestEmilyButterflyKoi_Trigger": {
+                    "Id": "{{ModId}}_QuestEmilyButterflyKoi_Trigger",
                     "Trigger": "LocationChanged",
-                    "Condition": "LOCATION_NAME Here HaleyHouse Town, SEASON Summer, WEATHER Here Sun, PLAYER_HEARTS Current Emily 4, PLAYER_BASE_FISHING_LEVEL Current 7, DAY_OF_MONTH even, RANDOM 0.2, !PLAYER_HAS_MAIL Current {{ModId}}_QuestEmilyOrangeFruitballoonLetter",
+                    "Condition": "LOCATION_NAME Here HaleyHouse Town, SEASON Summer, WEATHER Here Sun, PLAYER_HEARTS Current Emily 4, PLAYER_BASE_FISHING_LEVEL Current 5, DAY_OF_MONTH even, RANDOM 0.2, !PLAYER_HAS_MAIL Current {{ModId}}_QuestEmilyButterflyKoiLetter",
                     "Actions": [
-                        "AddMail Current {{ModId}}_QuestEmilyOrangeFruitballoonLetter tomorrow"
+                        "AddMail Current {{ModId}}_QuestEmilyButterflyKoiLetter tomorrow"
                     ]
                 },
                 "{{ModId}}_QuestJasSmallPinkPearl_Trigger": {

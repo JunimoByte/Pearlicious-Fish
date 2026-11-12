@@ -85,7 +85,7 @@
                     "Edibility": 15,
                     "IsDrink": false,
                     "ExcludeFromFishingCollection": false,
-                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromShippingCollection": true,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
                         "fish_cave",
@@ -388,11 +388,12 @@
                     "Edibility": 30,
                     "IsDrink": false,
                     "ExcludeFromFishingCollection": false,
-                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromShippingCollection": true,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
                         "fish_mountain",
                         "fish_has_roe",
+                        "fish_legendary",
                         "fish_calartfish",
                         "season_fall",
                         "color_blue"
@@ -410,11 +411,12 @@
                     "Edibility": 60,
                     "IsDrink": false,
                     "ExcludeFromFishingCollection": false,
-                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromShippingCollection": true,
                     "ExcludeFromRandomSale": true,
                     "ContextTags": [
                         "fish_pond",
                         "fish_has_roe",
+                        "fish_legendary",
                         "fish_orangefruitballoon",
                         "season_summer",
                         "color_orange"

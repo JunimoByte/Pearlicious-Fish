@@ -148,41 +148,27 @@
                     "ProducedItems": [
                         {
                             "RequiredPopulation": 0,
-                            "Chance": 0.6,
+                            "Chance": 0.75,
                             "ItemId": "(O)812", // Roe
-                            "MinStack": 1,
-                            "MaxStack": 2
-                        },
-                        {
-                            "RequiredPopulation": 3,
-                            "Chance": 0.25,
-                            "ItemId": "(O)82", // Fire Quartz
-                            "MinStack": 2,
-                            "MaxStack": 2
-                        },
-                        {
-                            "RequiredPopulation": 5,
-                            "Chance": 0.1,
-                            "ItemId": "(O)72", // Diamond
                             "MinStack": 1,
                             "MaxStack": 1
                         },
                         {
-                            "RequiredPopulation": 8,
-                            "Chance": 0.04,
+                            "RequiredPopulation": 0,
+                            "Chance": 0.15,
+                            "ItemId": "(O)82", // Fire Quartz
+                            "MinStack": 1,
+                            "MaxStack": 1
+                        },
+                        {
+                            "RequiredPopulation": 0,
+                            "Chance": 0.05,
                             "ItemId": "(O){{ModId}}_BlackTahitianPearl",
                             "MinStack": 1,
                             "MaxStack": 1
                         }
                     ],
-                    "PopulationGates": {
-                        "3": [
-                            "(O)64 3" // Ruby
-                        ],
-                        "6": [
-                            "(O)72 1" // Diamond
-                        ]
-                    }
+                    "PopulationGates": {}
                 },
                 "{{ModId}}_RedBetta": {
                     "Id": "id_(O){{ModId}}_RedBetta",
@@ -754,100 +740,58 @@
                     "ProducedItems": [
                         {
                             "RequiredPopulation": 0,
-                            "Chance": 0.6,
+                            "Chance": 0.75,
                             "ItemId": "(O)812", // Roe
                             "MinStack": 1,
-                            "MaxStack": 2
+                            "MaxStack": 1
                         },
                         {
-                            "RequiredPopulation": 3,
-                            "Chance": 0.2,
+                            "RequiredPopulation": 0,
+                            "Chance": 0.15,
                             "ItemId": "(O)234", // Blueberry Tart
                             "MinStack": 1,
-                            "MaxStack": 2
+                            "MaxStack": 1
                         },
                         {
-                            "RequiredPopulation": 5,
-                            "Chance": 0.08,
-                            "ItemId": "(O)258", // Blueberry
-                            "MinStack": 5,
-                            "MaxStack": 7
-                        },
-                        {
-                            "RequiredPopulation": 5,
+                            "RequiredPopulation": 0,
                             "Chance": 0.05,
                             "ItemId": "(O)797", // Pearl
                             "MinStack": 1,
                             "MaxStack": 1
-                        },
-                        {
-                            "RequiredPopulation": 8,
-                            "Chance": 0.01,
-                            "ItemId": "(O)74", // Prismatic Shard
-                            "MinStack": 1,
-                            "MaxStack": 1
                         }
                     ],
-                    "PopulationGates": {
-                        "3": [
-                            "(O)234 1" // Blueberry Tart
-                        ],
-                        "6": [
-                            "(O)797 1" // Pearl
-                        ]
-                    }
+                    "PopulationGates": {}
                 },
                 "{{ModId}}_OrangeFruitballoon": {
                     "Id": "id_(O){{ModId}}_OrangeFruitballoon",
                     "RequiredTags": [
                         "id_(O){{ModId}}_OrangeFruitballoon"
                     ],
-                    "SpawnTime": 5,
+                    "SpawnTime": 7,
                     "ProducedItems": [
                         {
                             "RequiredPopulation": 0,
-                            "Chance": 0.6,
+                            "Chance": 0.75,
                             "ItemId": "(O)812", // Roe
                             "MinStack": 1,
-                            "MaxStack": 2
+                            "MaxStack": 1
                         },
                         {
-                            "RequiredPopulation": 3,
-                            "Chance": 0.2,
+                            "RequiredPopulation": 0,
+                            "Chance": 0.15,
                             "ItemId": "(O)635", // Orange
                             "MinStack": 1,
                             "MaxStack": 2
                         },
                         {
-                            "RequiredPopulation": 5,
-                            "Chance": 0.08,
-                            "ItemId": "(O)635", // Orange
-                            "MinStack": 3,
-                            "MaxStack": 5
-                        },
-                        {
-                            "RequiredPopulation": 5,
+                            "RequiredPopulation": 0,
                             "Chance": 0.05,
                             "ItemId": "(O)797", // Pearl
                             "MinStack": 1,
                             "MaxStack": 1
-                        },
-                        {
-                            "RequiredPopulation": 8,
-                            "Chance": 0.01,
-                            "ItemId": "(O)74", // Prismatic Shard
-                            "MinStack": 1,
-                            "MaxStack": 1
                         }
                     ],
-                    "PopulationGates": {
-                        "3": [
-                            "(O)635 1" // Orange
-                        ],
-                        "6": [
-                            "(O)797 1" // Pearl
-                        ]
-                    }
+                    "PopulationGates": {}
                 }
             }
         }
