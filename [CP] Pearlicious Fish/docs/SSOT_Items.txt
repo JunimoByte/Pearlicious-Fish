@@ -9,7 +9,7 @@ Legendary Pearls (1% drop, Universal Love) – Melo Pearl (3,000g, Clam only), B
 Royal Fang – Dagger, Combat level 8 recipe (5 Gold Bars, 1 Pearl, 2 Black Tahitian Pearls), 54–64 dmg, +4 speed, 9% crit
 Sea King's Maul – Club, Combat level 9 recipe (5 Gold Bars, 1 Pearl, 2 Melo Pearls), 78–104 dmg, -4 speed, +3 defense, 28 AoE
 Siren's Saber – Sword, Combat level 10 recipe (5 Gold Bars, 1 Pearl, 2 Peacock Tahitian Pearls), 70–84 dmg, +5 speed, +2 defense, 3% crit
-Siren's Signet Ring – Ring (+2 Luck), Fishing level 10 recipe (5 Gold Bars, 3 Pearls, 2 Purple Rose Edison Pearls) or Clint's quest reward
+Siren's Signet Ring – Ring (+1 Luck), Fishing level 10 recipe (5 Gold Bars, 3 Pearls, 2 Purple Rose Edison Pearls) or Clint's quest reward
 
 Mermaid Silver Torch – Fishing level 5 recipe, 10 Mollusk Meat + 1 Purple Pearl
 Mermaid Orb Torch – Fishing level 5 recipe, 10 Mollusk Meat + 1 Pink Pearl

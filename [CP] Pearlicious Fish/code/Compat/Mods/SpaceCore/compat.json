@@ -25,7 +25,7 @@
                     "IconSpriteIndex": 16,
                     "Duration": -2,
                     "Effects": {
-                        "LuckLevel": 2
+                        "LuckLevel": 1
                     }
                 }
             }
