@@ -12,14 +12,6 @@
                         "AddMail Current {{ModId}}_QuestWillyCutthroatTroutLetter tomorrow"
                     ]
                 },
-                "{{ModId}}_QuestWillyMusky_Trigger": {
-                    "Id": "{{ModId}}_QuestWillyMusky_Trigger",
-                    "Trigger": "LocationChanged",
-                    "Condition": "LOCATION_NAME Here Beach FishShop Town, SEASON Summer Fall, PLAYER_HEARTS Current Willy 4, PLAYER_BASE_FISHING_LEVEL Current 5, DAY_OF_MONTH even, DAY_OF_WEEK Wednesday Thursday Friday, RANDOM 0.25, !PLAYER_HAS_MAIL Current {{ModId}}_QuestWillyMuskyLetter",
-                    "Actions": [
-                        "AddMail Current {{ModId}}_QuestWillyMuskyLetter tomorrow"
-                    ]
-                },
                 "{{ModId}}_QuestWillyArapaima_Trigger": {
                     "Id": "{{ModId}}_QuestWillyArapaima_Trigger",
                     "Trigger": "LocationChanged",
@@ -50,6 +42,39 @@
                     "Condition": "PLAYER_HAS_MAIL Current {{ModId}}_QuestWizardDryboneDaceLetter, PLAYER_HAS_CAUGHT_FISH Current (O){{ModId}}_DryboneDace, !PLAYER_HAS_MAIL Current {{ModId}}_QuestWizardDryboneDaceThankYouLetter",
                     "Actions": [
                         "AddMail Current {{ModId}}_QuestWizardDryboneDaceThankYouLetter now"
+                    ]
+                },
+                "{{ModId}}_QuestClintPeacockPearl_Trigger": {
+                    "Id": "{{ModId}}_QuestClintPeacockPearl_Trigger",
+                    "Trigger": "LocationChanged",
+                    "Condition": "LOCATION_NAME Here Blacksmith Town, PLAYER_HEARTS Current Clint 4, DAY_OF_MONTH even, DAY_OF_WEEK Monday Tuesday Thursday, RANDOM 0.2, !PLAYER_HAS_MAIL Current {{ModId}}_QuestClintPeacockPearlLetter",
+                    "Actions": [
+                        "AddMail Current {{ModId}}_QuestClintPeacockPearlLetter tomorrow"
+                    ]
+                },
+                "{{ModId}}_QuestClintPeacockPearlThankYouLetter_Trigger": {
+                    "Id": "{{ModId}}_QuestClintPeacockPearlThankYouLetter_Trigger",
+                    "Trigger": "DayStarted",
+                    "Condition": "PLAYER_HAS_MAIL Current {{ModId}}_QuestClintPeacockPearlLetter, !PLAYER_HAS_MAIL Current {{ModId}}_QuestClintPeacockPearlThankYouLetter, RANDOM 0.5",
+                    "Actions": [
+                        "AddMail Current {{ModId}}_QuestClintPeacockPearlThankYouLetter now"
+                    ]
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/TriggerActions",
+            "When": {
+                "Quests": "Default, Reduced"
+            },
+            "Entries": {
+                "{{ModId}}_QuestWillyMusky_Trigger": {
+                    "Id": "{{ModId}}_QuestWillyMusky_Trigger",
+                    "Trigger": "LocationChanged",
+                    "Condition": "LOCATION_NAME Here Beach FishShop Town, SEASON Summer Fall, PLAYER_HEARTS Current Willy 4, PLAYER_BASE_FISHING_LEVEL Current 5, DAY_OF_MONTH even, DAY_OF_WEEK Wednesday Thursday Friday, RANDOM 0.25, !PLAYER_HAS_MAIL Current {{ModId}}_QuestWillyMuskyLetter",
+                    "Actions": [
+                        "AddMail Current {{ModId}}_QuestWillyMuskyLetter tomorrow"
                     ]
                 },
                 "{{ModId}}_QuestGusPeacockBass_Trigger": {
@@ -83,7 +108,16 @@
                     "Actions": [
                         "AddMail Current {{ModId}}_QuestLinusPaddlefishLetter tomorrow"
                     ]
-                },
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/TriggerActions",
+            "When": {
+                "Quests": "Default"
+            },
+            "Entries": {
                 "{{ModId}}_QuestEmilyButterflyKoi_Trigger": {
                     "Id": "{{ModId}}_QuestEmilyButterflyKoi_Trigger",
                     "Trigger": "LocationChanged",
@@ -106,22 +140,6 @@
                     "Condition": "LOCATION_NAME Here ElliottHouse Beach, PLAYER_HEARTS Current Elliott 3, TIME 1800 2400, DAY_OF_MONTH odd, RANDOM 0.2, !PLAYER_HAS_MAIL Current {{ModId}}_QuestElliottPurplePearlLetter",
                     "Actions": [
                         "AddMail Current {{ModId}}_QuestElliottPurplePearlLetter tomorrow"
-                    ]
-                },
-                "{{ModId}}_QuestClintPeacockPearl_Trigger": {
-                    "Id": "{{ModId}}_QuestClintPeacockPearl_Trigger",
-                    "Trigger": "LocationChanged",
-                    "Condition": "LOCATION_NAME Here Blacksmith Town, PLAYER_HEARTS Current Clint 4, DAY_OF_MONTH even, DAY_OF_WEEK Monday Tuesday Thursday, RANDOM 0.2, !PLAYER_HAS_MAIL Current {{ModId}}_QuestClintPeacockPearlLetter",
-                    "Actions": [
-                        "AddMail Current {{ModId}}_QuestClintPeacockPearlLetter tomorrow"
-                    ]
-                },
-                "{{ModId}}_QuestClintPeacockPearlThankYouLetter_Trigger": {
-                    "Id": "{{ModId}}_QuestClintPeacockPearlThankYouLetter_Trigger",
-                    "Trigger": "DayStarted",
-                    "Condition": "PLAYER_HAS_MAIL Current {{ModId}}_QuestClintPeacockPearlLetter, !PLAYER_HAS_MAIL Current {{ModId}}_QuestClintPeacockPearlThankYouLetter, RANDOM 0.5",
-                    "Actions": [
-                        "AddMail Current {{ModId}}_QuestClintPeacockPearlThankYouLetter now"
                     ]
                 }
             }

@@ -42,6 +42,11 @@
                     "Id": "{{ModId}}_Paddlefish",
                     "ItemId": "(O){{ModId}}_Paddlefish",
                     "Condition": "LOCATION_SEASON Here Spring"
+                },
+                "{{ModId}}_Ide": {
+                    "Id": "{{ModId}}_Ide",
+                    "ItemId": "(O){{ModId}}_Ide",
+                    "Condition": "LOCATION_SEASON Here Spring Summer"
                 }
             }
         },
@@ -75,6 +80,9 @@
                     "FishAreaId": "{{AreaId}}"
                 },
                 "{{ModId}}_Paddlefish": {
+                    "FishAreaId": "{{AreaId}}"
+                },
+                "{{ModId}}_Ide": {
                     "FishAreaId": "{{AreaId}}"
                 }
             }

@@ -1,5 +1,19 @@
 {
     "Format": "2.8.0",
+    "ConfigSchema": {
+        "Fish Difficulty": {
+            "AllowValues": "Default, Relaxed, Hardcore",
+            "Default": "Default"
+        },
+        "Quests": {
+            "AllowValues": "Default, Reduced, Minimal",
+            "Default": "Default"
+        },
+        "Perfection": {
+            "AllowValues": "Default, Disabled",
+            "Default": "Default"
+        }
+    },
     "Changes": [
         {
             "Action": "Load",
@@ -60,6 +74,10 @@
         {
             "Action": "Include",
             "FromFile": "code/Events/quests.json, code/Events/mail.json, code/Events/triggers.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "code/Other/config.json"
         },
         {
             "Action": "Include",

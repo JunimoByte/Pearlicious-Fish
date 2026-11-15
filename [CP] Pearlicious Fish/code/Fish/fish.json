@@ -421,6 +421,29 @@
                         "season_summer",
                         "color_orange"
                     ]
+                },
+                "{{ModId}}_Ide": {
+                    "Name": "{{ModId}}_Ide",
+                    "DisplayName": "{{i18n:{{ModId}}_Ide.displayname}}",
+                    "Description": "{{i18n:{{ModId}}_Ide.description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 55,
+                    "Texture": "Mods/{{ModId}}/Fish/FishSprite",
+                    "SpriteIndex": 18,
+                    "Edibility": 20,
+                    "IsDrink": false,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": true,
+                    "ContextTags": [
+                        "fish_river",
+                        "fish_has_roe",
+                        "fish_ide",
+                        "season_spring",
+                        "season_summer",
+                        "color_gray"
+                    ]
                 }
             }
         }

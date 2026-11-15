@@ -1,11 +1,11 @@
 {
   "Name": "Pearlicious Fish",
   "Author": "LucyTheDove",
-  "Version": "0.8.0",
+  "Version": "0.9.0",
   "Description": "Adds fish to the mountains, rivers, and caves of Stardew Valley.",
   "UniqueID": "LucyTheDove.PF",
   "UpdateKeys": [
-    "Nexus:0"
+    "Nexus:55555"
   ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
