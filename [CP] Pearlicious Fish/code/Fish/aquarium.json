@@ -21,8 +21,7 @@
                 "{{ModId}}_Paddlefish": "14/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
                 "{{ModId}}_DryboneDace": "15/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
                 "{{ModId}}_CalartFish": "16/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
-                "{{ModId}}_OrangeFruitballoon": "17/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite",
-                "{{ModId}}_Ide": "18/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite"
+                "{{ModId}}_OrangeFruitballoon": "17/fish/////Mods\\{{ModId}}\\Fish\\AquariumSprite"
             }
         }
     ]

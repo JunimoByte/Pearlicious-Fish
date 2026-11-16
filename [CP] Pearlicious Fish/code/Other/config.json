@@ -24,8 +24,7 @@
                 "{{ModId}}_Paddlefish": "{{ModId}}_Paddlefish/65/mixed/50/87/600 1000 1600 1800/spring/rainy/690 .3 685/3/.07/.1/7/false",
                 "{{ModId}}_DryboneDace": "{{ModId}}_DryboneDace/60/mixed/15/30/1800 2600/spring summer fall winter/both/690 .3 685/3/.07/.1/7/false",
                 "{{ModId}}_CalartFish": "{{ModId}}_CalartFish/70/mixed/18/30/1200 1500/fall/both/690 .3 685/3/.03/.1/9/false",
-                "{{ModId}}_OrangeFruitballoon": "{{ModId}}_OrangeFruitballoon/70/floater/3/7/1000 1400/summer/sunny/690 .3 685/3/.03/.1/9/false",
-                "{{ModId}}_Ide": "{{ModId}}_Ide/25/floater/10/24/600 1900/spring summer/both/690 .3 685/2/.25/.1/0/false"
+                "{{ModId}}_OrangeFruitballoon": "{{ModId}}_OrangeFruitballoon/70/floater/3/7/1000 1400/summer/sunny/690 .3 685/3/.03/.1/9/false"
             }
         },
         {
@@ -52,8 +51,7 @@
                 "{{ModId}}_Paddlefish": "{{ModId}}_Paddlefish/98/mixed/50/87/600 1000 1600 1800/spring/rainy/690 .3 685/3/.07/.1/7/false",
                 "{{ModId}}_DryboneDace": "{{ModId}}_DryboneDace/92/mixed/15/30/1800 2600/spring summer fall winter/both/690 .3 685/3/.07/.1/7/false",
                 "{{ModId}}_CalartFish": "{{ModId}}_CalartFish/102/mixed/18/30/1200 1500/fall/both/690 .3 685/3/.03/.1/9/false",
-                "{{ModId}}_OrangeFruitballoon": "{{ModId}}_OrangeFruitballoon/102/floater/3/7/1000 1400/summer/sunny/690 .3 685/3/.03/.1/9/false",
-                "{{ModId}}_Ide": "{{ModId}}_Ide/50/floater/10/24/600 1900/spring summer/both/690 .3 685/2/.25/.1/0/false"
+                "{{ModId}}_OrangeFruitballoon": "{{ModId}}_OrangeFruitballoon/102/floater/3/7/1000 1400/summer/sunny/690 .3 685/3/.03/.1/9/false"
             }
         },
         {
@@ -132,10 +130,6 @@
                     "ExcludeFromShippingCollection": true
                 },
                 "{{ModId}}_OrangeFruitballoon": {
-                    "ExcludeFromFishingCollection": true,
-                    "ExcludeFromShippingCollection": true
-                },
-                "{{ModId}}_Ide": {
                     "ExcludeFromFishingCollection": true,
                     "ExcludeFromShippingCollection": true
                 },

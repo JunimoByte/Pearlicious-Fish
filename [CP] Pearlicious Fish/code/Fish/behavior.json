@@ -21,8 +21,7 @@
                 "{{ModId}}_Paddlefish": "{{ModId}}_Paddlefish/86/mixed/50/87/600 1000 1600 1800/spring/rainy/690 .3 685/3/.07/.1/7/false",
                 "{{ModId}}_DryboneDace": "{{ModId}}_DryboneDace/80/mixed/15/30/1800 2600/spring summer fall winter/both/690 .3 685/3/.07/.1/7/false",
                 "{{ModId}}_CalartFish": "{{ModId}}_CalartFish/90/mixed/18/30/1200 1500/fall/both/690 .3 685/3/.03/.1/9/false",
-                "{{ModId}}_OrangeFruitballoon": "{{ModId}}_OrangeFruitballoon/90/floater/3/7/1000 1400/summer/sunny/690 .3 685/3/.03/.1/9/false",
-                "{{ModId}}_Ide": "{{ModId}}_Ide/35/floater/10/24/600 1900/spring summer/both/690 .3 685/2/.25/.1/0/false"
+                "{{ModId}}_OrangeFruitballoon": "{{ModId}}_OrangeFruitballoon/90/floater/3/7/1000 1400/summer/sunny/690 .3 685/3/.03/.1/9/false"
             }
         }
     ]
