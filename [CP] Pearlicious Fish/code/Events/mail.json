@@ -18,7 +18,9 @@
                 "{{ModId}}_QuestJasSmallPinkPearlLetter": "{{i18n:{{ModId}}_QuestJasSmallPinkPearlLetter}}",
                 "{{ModId}}_QuestElliottPurplePearlLetter": "{{i18n:{{ModId}}_QuestElliottPurplePearlLetter}}",
                 "{{ModId}}_QuestClintPeacockPearlLetter": "{{i18n:{{ModId}}_QuestClintPeacockPearlLetter}}",
-                "{{ModId}}_QuestClintPeacockPearlThankYouLetter": "{{i18n:{{ModId}}_QuestClintPeacockPearlThankYouLetter}}"
+                "{{ModId}}_QuestClintPeacockPearlThankYouLetter": "{{i18n:{{ModId}}_QuestClintPeacockPearlThankYouLetter}}",
+                "{{ModId}}_WillySeasonalFishLetter": "{{i18n:{{ModId}}_WillySeasonalFishLetter}}",
+                "{{ModId}}_WillyPearlLoreLetter": "{{i18n:{{ModId}}_WillyPearlLoreLetter}}"
             }
         }
     ]

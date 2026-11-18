@@ -59,6 +59,22 @@
                     "Actions": [
                         "AddMail Current {{ModId}}_QuestClintPeacockPearlThankYouLetter now"
                     ]
+                },
+                "{{ModId}}_WillySeasonalFishLetter_Trigger": {
+                    "Id": "{{ModId}}_WillySeasonalFishLetter_Trigger",
+                    "Trigger": "DayStarted",
+                    "Condition": "YEAR 2, SEASON Spring, !PLAYER_HAS_MAIL Current {{ModId}}_WillySeasonalFishLetter",
+                    "Actions": [
+                        "AddMail Current {{ModId}}_WillySeasonalFishLetter now"
+                    ]
+                },
+                "{{ModId}}_WillyPearlLoreLetter_Trigger": {
+                    "Id": "{{ModId}}_WillyPearlLoreLetter_Trigger",
+                    "Trigger": "DayStarted",
+                    "Condition": "YEAR 2, SEASON Fall, !PLAYER_HAS_MAIL Current {{ModId}}_WillyPearlLoreLetter",
+                    "Actions": [
+                        "AddMail Current {{ModId}}_WillyPearlLoreLetter now"
+                    ]
                 }
             }
         },
