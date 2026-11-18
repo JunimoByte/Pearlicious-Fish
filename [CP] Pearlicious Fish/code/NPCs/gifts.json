@@ -10,7 +10,7 @@
                         "Entries",
                         "Universal_Like"
                     ],
-                    "Value": "{{ModId}}_SilverEdisonPearl {{ModId}}_PurpleEdisonPearl {{ModId}}_RoseGoldPearl {{ModId}}_PinkEdisonPearl {{ModId}}_PurpleRoseEdisonPearl {{ModId}}_PinkPearl {{ModId}}_SmallPinkPearl {{ModId}}_PurplePearl {{ModId}}_SmallPurplePearl {{ModId}}_SmallRoseGoldPearl",
+                    "Value": "{{ModId}}_PinkPearl {{ModId}}_SmallPinkPearl {{ModId}}_PurplePearl {{ModId}}_SmallPurplePearl {{ModId}}_SmallRoseGoldPearl",
                     "Delimiter": " "
                 },
                 {
@@ -19,7 +19,7 @@
                         "Entries",
                         "Universal_Love"
                     ],
-                    "Value": "{{ModId}}_BlackTahitianPearl {{ModId}}_PeacockTahitianPearl {{ModId}}_MeloPearl {{ModId}}_SirensSignetRing",
+                    "Value": "{{ModId}}_SilverEdisonPearl {{ModId}}_PurpleEdisonPearl {{ModId}}_RoseGoldPearl {{ModId}}_PinkEdisonPearl {{ModId}}_PurpleRoseEdisonPearl {{ModId}}_BlackTahitianPearl {{ModId}}_PeacockTahitianPearl {{ModId}}_MeloPearl {{ModId}}_SirensSignetRing",
                     "Delimiter": " "
                 }
             ]
